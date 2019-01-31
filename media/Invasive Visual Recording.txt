@@ -1,0 +1,9 @@
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 15, "all_cases_count": 470}
+{"bar_card": "10592300", "full_name": "Mr. John G. Jasuta", "cases_count": 7, "all_cases_count": 201}
+{"bar_card": "00790919", "full_name": "Mr. Troy Alan Hornsby", "cases_count": 2, "all_cases_count": 306}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "24032600", "full_name": "Ms. Margaret Emily Johnson-Liu", "cases_count": 1, "all_cases_count": 128}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "24077532", "full_name": "John Torrey Hunter", "cases_count": 1, "all_cases_count": 27}
+{"bar_card": "06768725", "full_name": "Mr. Cary Marshall Faden", "cases_count": 1, "all_cases_count": 337}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 1, "all_cases_count": 776}

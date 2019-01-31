@@ -1,0 +1,3 @@
+{"bar_card": "03395000", "full_name": "Ms. Rikke Burke Graber", "cases_count": 7, "all_cases_count": 76}
+{"bar_card": "00795443", "full_name": "Mr. Timothy Wayne 'Tim' Inman", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 1, "all_cases_count": 393}

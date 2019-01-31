@@ -1,0 +1,17 @@
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 4, "all_cases_count": 353}
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 2, "all_cases_count": 284}
+{"bar_card": "24055561", "full_name": "Ms. Mandy Goldman Miller", "cases_count": 2, "all_cases_count": 223}
+{"bar_card": "24094595", "full_name": "Cole Benjamin  Combs", "cases_count": 2, "all_cases_count": 17}
+{"bar_card": "04431900", "full_name": "Mr. Bruce Wayne 'Bruce' Cobb", "cases_count": 1, "all_cases_count": 193}
+{"bar_card": "09234150", "full_name": "Mr. Anthony S. Haughton", "cases_count": 1, "all_cases_count": 11}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "17790500", "full_name": "Mr. Stanley G. Schneider", "cases_count": 1, "all_cases_count": 707}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 470}
+{"bar_card": "20871500", "full_name": "Mr. Larry Logan 'LARRY' Warner Sr.", "cases_count": 1, "all_cases_count": 361}
+{"bar_card": "21633500", "full_name": "Mr. Joseph Rutherford Willie II", "cases_count": 1, "all_cases_count": 342}
+{"bar_card": "24046894", "full_name": "Mr. Levi Lebu Spriggs", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "24051154", "full_name": "Mr. Samuel Rhett 'Rhett' Parham", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "15313350", "full_name": "Ms. Cynthia Eva Hujar 'Cynthia' Orr", "cases_count": 1, "all_cases_count": 88}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 1, "all_cases_count": 1625}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 1, "all_cases_count": 1924}
+{"bar_card": "00792999", "full_name": "Mr. Todd Steven Dudley", "cases_count": 1, "all_cases_count": 62}

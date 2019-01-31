@@ -1,0 +1,1 @@
+{"bar_card": "24045439", "full_name": "Mr. Kenneth Eric Baker", "cases_count": 1, "all_cases_count": 15}

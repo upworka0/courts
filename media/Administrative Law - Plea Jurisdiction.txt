@@ -1,0 +1,10 @@
+{"bar_card": "12761550", "full_name": "Mr. Charles Alfred 'C. Alfred Mackenzie' Mackenzie", "cases_count": 2, "all_cases_count": 117}
+{"bar_card": "20559350", "full_name": "Mr. Ramon G. 'Ray' Viada III", "cases_count": 2, "all_cases_count": 122}
+{"bar_card": "01814000", "full_name": "Mr. Roy Lee 'Roy' Barrett", "cases_count": 2, "all_cases_count": 76}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}
+{"bar_card": "01805800", "full_name": "Mr. Horacio L. Barrera", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "05834200", "full_name": "Mr. Donald Bradley 'Brad' Dickinson", "cases_count": 1, "all_cases_count": 92}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 1, "all_cases_count": 1625}
+{"bar_card": "24071537", "full_name": "Mr. Clinton Warren 'Clint' Twaddell III", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 1, "all_cases_count": 1924}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 1, "all_cases_count": 1406}

@@ -1,0 +1,2 @@
+{"bar_card": "17316750", "full_name": "Mr. Scott Rothenberg", "cases_count": 2, "all_cases_count": 226}
+{"bar_card": "11757500", "full_name": "Mr. Michael Kuhn", "cases_count": 1, "all_cases_count": 16}

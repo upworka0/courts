@@ -1,0 +1,4 @@
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 2, "all_cases_count": 1008}
+{"bar_card": "24035844", "full_name": "Ms. Lindsay Owen Williams", "cases_count": 2, "all_cases_count": 28}
+{"bar_card": "00784242", "full_name": "Ms. Cynthia Watson Hellstern", "cases_count": 1, "all_cases_count": 318}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 1, "all_cases_count": 307}

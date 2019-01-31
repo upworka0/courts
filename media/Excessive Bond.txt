@@ -1,0 +1,2 @@
+{"bar_card": "08696000", "full_name": "Mr. John Harbell Hagler", "cases_count": 3, "all_cases_count": 302}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 685}

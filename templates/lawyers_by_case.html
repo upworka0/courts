@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% load extra_filters %}
+{% block head_title %} Lawyers By Case || {{ block.super }} {% endblock head_title %}
+
+{% block content %}
+    <br>
+    <h3 class="red-back-header"><span>Selected Case Type : {{ case_type|get_ocase_type }}</span></h3><br>
+
+    <div class="container-fluid search-results-table">
+    <table class="sortable table table-hover table-bordered lawyers-by-case" >
+        <thead>
+            <th>No.</th>
+            <th>Attorney Name &#9650 &#9660</th>
+            <th>Selected Case Type &#9650 &#9660</th>
+            <th>Total Number of Cases &#9650 &#9660</th>
+        </thead>
+
+        <tbody>
+        {% for lawyer in lawyers %}
+        <tr>
+        <td> {{ forloop.counter }}</td>
+        {% if group %}
+            <td><a href="/lawyer/{{ lawyer.bar_card }}/?case_type={{ group }}&group={{ case_type }}">{{ lawyer.full_name }}</a></td>
+            <td> <a href="/cases/{{ lawyer.bar_card }}/?case_type={{ group }}&group={{ case_type }}"><strong>{{ lawyer.cases_count }}</strong></a></td>
+        {% else %}
+            <td><a href="/lawyer/{{ lawyer.bar_card }}/?case_type={{ case_type }}">{{ lawyer.full_name }}</a></td>
+            <td> <a href="/cases/{{ lawyer.bar_card }}/?case_type={{ case_type }}"><strong>{{ lawyer.cases_count }}</strong></a></td>
+        {% endif %}
+            <td> <a href="/cases/{{ lawyer.bar_card }}"> <strong>{{ lawyer.all_cases_count }}</strong></a></td>
+        {% endfor %}
+        </tr>
+        </tbody>
+    </table>
+    </div>
+
+    </div>
+{% endblock %}
+
+

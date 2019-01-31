@@ -1,0 +1,7 @@
+{"bar_card": "18779400", "full_name": "Ms. Sallee S. Smyth", "cases_count": 3, "all_cases_count": 204}
+{"bar_card": "13882700", "full_name": "Ms. Elizabeth Meador Bruman", "cases_count": 1, "all_cases_count": 76}
+{"bar_card": "16215500", "full_name": "Mr. Bruce Stephen Powers", "cases_count": 1, "all_cases_count": 100}
+{"bar_card": "09618950", "full_name": "Ms. Barbara A. Hilburn", "cases_count": 1, "all_cases_count": 66}
+{"bar_card": "20190670", "full_name": "Ms. Sherrie Haussner Travers", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "21633500", "full_name": "Mr. Joseph Rutherford Willie II", "cases_count": 1, "all_cases_count": 342}
+{"bar_card": "16832460", "full_name": "Ms. Lisa Rice 'Lisa Rice Hulsey' Hulsey", "cases_count": 1, "all_cases_count": 55}

@@ -1,0 +1,3 @@
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 2, "all_cases_count": 536}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "00788354", "full_name": "Mr. Clint Foster Sare", "cases_count": 1, "all_cases_count": 269}

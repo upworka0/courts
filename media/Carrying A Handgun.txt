@@ -1,0 +1,15 @@
+{"bar_card": "08716800", "full_name": "Mr. Theodore C. 'ted' Hake", "cases_count": 2, "all_cases_count": 540}
+{"bar_card": "00797589", "full_name": "Mr. Enrico Baltazar 'Rico' Valdez", "cases_count": 2, "all_cases_count": 426}
+{"bar_card": "24002739", "full_name": "Mr. Scott Howard 'Scott' Pawgan", "cases_count": 2, "all_cases_count": 154}
+{"bar_card": "00798088", "full_name": "Ms. Anne More Burnham", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "03408000", "full_name": "Mr. Daniel 'Dan' Burkeen", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "07714300", "full_name": "Mr. Calvin Garvie", "cases_count": 1, "all_cases_count": 44}
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 1, "all_cases_count": 1008}
+{"bar_card": "08880500", "full_name": "Mr. Clinard J. 'Buddy' Hanby", "cases_count": 1, "all_cases_count": 194}
+{"bar_card": "10119000", "full_name": "Mr. Jerry W. Howeth", "cases_count": 1, "all_cases_count": 104}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 1, "all_cases_count": 536}
+{"bar_card": "24000121", "full_name": "Mr. Arlis Avery 'Avery' McDaniel", "cases_count": 1, "all_cases_count": 20}
+{"bar_card": "24001800", "full_name": "Mr. Marc Alden Brumberger", "cases_count": 1, "all_cases_count": 89}
+{"bar_card": "08696000", "full_name": "Mr. John Harbell Hagler", "cases_count": 1, "all_cases_count": 302}
+{"bar_card": "00790919", "full_name": "Mr. Troy Alan Hornsby", "cases_count": 1, "all_cases_count": 306}
+{"bar_card": "00794721", "full_name": "Ms. Holly Eileen 'Holly' Taylor", "cases_count": 1, "all_cases_count": 238}

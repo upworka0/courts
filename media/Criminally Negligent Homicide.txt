@@ -1,0 +1,22 @@
+{"bar_card": "17136525", "full_name": "Ms. Judy Rodgers Hodgkiss", "cases_count": 2, "all_cases_count": 135}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 2, "all_cases_count": 756}
+{"bar_card": "00784242", "full_name": "Ms. Cynthia Watson Hellstern", "cases_count": 1, "all_cases_count": 318}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 1, "all_cases_count": 609}
+{"bar_card": "08716800", "full_name": "Mr. Theodore C. 'ted' Hake", "cases_count": 1, "all_cases_count": 540}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 685}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 1, "all_cases_count": 430}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 1, "all_cases_count": 761}
+{"bar_card": "21236300", "full_name": "Mr. Richard E. Wetzel", "cases_count": 1, "all_cases_count": 334}
+{"bar_card": "24025336", "full_name": "Mr. Frederick Thomas 'Rick' Dunbar", "cases_count": 1, "all_cases_count": 153}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "24032740", "full_name": "Ms. Velia Judith Meza", "cases_count": 1, "all_cases_count": 31}
+{"bar_card": "24033062", "full_name": "Ms. Grace Eun Hae Shin", "cases_count": 1, "all_cases_count": 130}
+{"bar_card": "24038803", "full_name": "Ms. Janet Celeste Carter 'Celeste' Blackburn", "cases_count": 1, "all_cases_count": 111}
+{"bar_card": "24041263", "full_name": "Ms. Angela Mann Kneeland", "cases_count": 1, "all_cases_count": 60}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 1, "all_cases_count": 612}
+{"bar_card": "24048680", "full_name": "Mr. Michael Mowla", "cases_count": 1, "all_cases_count": 283}
+{"bar_card": "24058364", "full_name": "Shannon Leigh 'Leigh' Love", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "24069969", "full_name": "Mr. Niles Stefan Illich", "cases_count": 1, "all_cases_count": 170}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "24085201", "full_name": "Vikash Madhusudan Bhakta", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 1, "all_cases_count": 1625}

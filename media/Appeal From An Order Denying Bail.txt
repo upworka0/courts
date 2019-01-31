@@ -1,0 +1,14 @@
+{"bar_card": "00794227", "full_name": "Mr. Michael Adrian Mark", "cases_count": 2, "all_cases_count": 119}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 2, "all_cases_count": 761}
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 2, "all_cases_count": 1008}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 1, "all_cases_count": 221}
+{"bar_card": "06855600", "full_name": "Ms. Helena Foret Faulkner", "cases_count": 1, "all_cases_count": 197}
+{"bar_card": "16107600", "full_name": "Ms. Andrea Carol Polunsky", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "17610700", "full_name": "Mr. Forrest L. Sanderson III", "cases_count": 1, "all_cases_count": 97}
+{"bar_card": "18078300", "full_name": "Mr. Kollin Shadle", "cases_count": 1, "all_cases_count": 411}
+{"bar_card": "19550620", "full_name": "Mr. Dean M. Swanda", "cases_count": 1, "all_cases_count": 310}
+{"bar_card": "24031731", "full_name": "Mr. Nathan Nathaniel Beedle", "cases_count": 1, "all_cases_count": 11}
+{"bar_card": "24081041", "full_name": "Charles Bernard 'Chuck Meyer' Meyer", "cases_count": 1, "all_cases_count": 10}
+{"bar_card": "24085059", "full_name": "Lauren Carol Dorsey 'Lauren' Murphree", "cases_count": 1, "all_cases_count": 40}
+{"bar_card": "00791107", "full_name": "Mr. Chip B. Lewis", "cases_count": 1, "all_cases_count": 53}
+{"bar_card": "00795861", "full_name": "Mr. Aaron Ray Clements", "cases_count": 1, "all_cases_count": 48}

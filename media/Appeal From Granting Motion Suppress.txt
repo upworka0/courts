@@ -1,0 +1,2 @@
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 2, "all_cases_count": 761}
+{"bar_card": "15167000", "full_name": "Mr. Douglas M. 'Doug' O'Brien", "cases_count": 1, "all_cases_count": 276}

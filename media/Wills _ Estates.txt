@@ -1,0 +1,13 @@
+{"bar_card": "04423000", "full_name": "Mr. Richard D. 'I' Coan", "cases_count": 5, "all_cases_count": 30}
+{"bar_card": "02104000", "full_name": "Mr. Gary Michael Bellair", "cases_count": 1, "all_cases_count": 218}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "04688650", "full_name": "Mr. Michael D. 'Mike' Conner", "cases_count": 1, "all_cases_count": 180}
+{"bar_card": "06717580", "full_name": "Mr. George Stephen 'Stephen' Evans", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "08763500", "full_name": "Mr. Lance Carroll Hall", "cases_count": 1, "all_cases_count": 68}
+{"bar_card": "12424230", "full_name": "Mr. John J. Little", "cases_count": 1, "all_cases_count": 9}
+{"bar_card": "15109500", "full_name": "Mr. James D. Norvell", "cases_count": 1, "all_cases_count": 17}
+{"bar_card": "15744050", "full_name": "Ms. Julia Fields Pendery", "cases_count": 1, "all_cases_count": 136}
+{"bar_card": "19516000", "full_name": "Mr. Frank L. 'Frank' Supercinski", "cases_count": 1, "all_cases_count": 66}
+{"bar_card": "19834200", "full_name": "Mr. Lee Douglas Thibodeaux", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "00791700", "full_name": "Mr. Timothy B. 'Tim' Soefje", "cases_count": 1, "all_cases_count": 164}
+{"bar_card": "24007633", "full_name": "Mr. Shawn Malcolm McCaskill", "cases_count": 1, "all_cases_count": 86}

@@ -1,0 +1,3 @@
+{"bar_card": "24092227", "full_name": "William Reece 'Rhys' Carson", "cases_count": 2, "all_cases_count": 57}
+{"bar_card": "08193000", "full_name": "Mr. Ronald Leroy Goranson", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 198}

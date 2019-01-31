@@ -1,0 +1,10 @@
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 2, "all_cases_count": 1406}
+{"bar_card": "00786311", "full_name": "Ms. Ardita Leonne Vick", "cases_count": 1, "all_cases_count": 2}
+{"bar_card": "00795708", "full_name": "Ms. Amy Warr", "cases_count": 1, "all_cases_count": 119}
+{"bar_card": "01797100", "full_name": "Ms. Pamela Stanton Baron", "cases_count": 1, "all_cases_count": 125}
+{"bar_card": "09580400", "full_name": "Mr. Max Renea 'Renea' Hicks", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "17736870", "full_name": "Justice David J. Schenck", "cases_count": 1, "all_cases_count": 50}
+{"bar_card": "21050060", "full_name": "Ms. Jane M. N. Webre", "cases_count": 1, "all_cases_count": 281}
+{"bar_card": "24027427", "full_name": "Mr. Christopher Donald 'Chris' Kratovil", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "24036562", "full_name": "Ms. Susan S. Vance", "cases_count": 1, "all_cases_count": 60}
+{"bar_card": "24062194", "full_name": "Mr. Deterrean Shaunessey Gamble", "cases_count": 1, "all_cases_count": 408}

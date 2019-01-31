@@ -1,0 +1,28 @@
+{"bar_card": "02216575", "full_name": "Ms. Catherine Clare Bernhard", "cases_count": 4, "all_cases_count": 102}
+{"bar_card": "18078300", "full_name": "Mr. Kollin Shadle", "cases_count": 4, "all_cases_count": 411}
+{"bar_card": "00784242", "full_name": "Ms. Cynthia Watson Hellstern", "cases_count": 2, "all_cases_count": 318}
+{"bar_card": "06662300", "full_name": "Mr. David A. Escamilla", "cases_count": 2, "all_cases_count": 308}
+{"bar_card": "00792970", "full_name": "Mr. Mark W. Bennett", "cases_count": 2, "all_cases_count": 171}
+{"bar_card": "24069359", "full_name": "Mr. Alex Johnathan Bell", "cases_count": 2, "all_cases_count": 392}
+{"bar_card": "00797589", "full_name": "Mr. Enrico Baltazar 'Rico' Valdez", "cases_count": 2, "all_cases_count": 426}
+{"bar_card": "24050279", "full_name": "Ms. Riann Christine Moore", "cases_count": 2, "all_cases_count": 316}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 1, "all_cases_count": 536}
+{"bar_card": "24001933", "full_name": "Mr. Philip Thomas Cowen", "cases_count": 1, "all_cases_count": 166}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 1, "all_cases_count": 326}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 530}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 1, "all_cases_count": 612}
+{"bar_card": "24047261", "full_name": "Mr. Joshua Bennett Somers", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "24048680", "full_name": "Mr. Michael Mowla", "cases_count": 1, "all_cases_count": 283}
+{"bar_card": "24056166", "full_name": "Mr. Gary Emil Prust", "cases_count": 1, "all_cases_count": 97}
+{"bar_card": "24068071", "full_name": "Mr. Gabriel Caleb Price", "cases_count": 1, "all_cases_count": 390}
+{"bar_card": "24068195", "full_name": "Mr. Andrew Taylor Erwin", "cases_count": 1, "all_cases_count": 14}
+{"bar_card": "24088223", "full_name": "Mr. Bobby Lynn Phillips", "cases_count": 1, "all_cases_count": 20}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "90001898", "full_name": "Ms. Kristen Elaine Jernigan", "cases_count": 1, "all_cases_count": 234}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 1, "all_cases_count": 1406}
+{"bar_card": "00789966", "full_name": "Ms. M. Michele Greene", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "00794430", "full_name": "Mr. M. Ariel Payan", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "06117800", "full_name": "Ms. Katherine A. 'Kathi' Drew", "cases_count": 1, "all_cases_count": 944}
+{"bar_card": "06196400", "full_name": "Mr. Richard Brooks Dulany Jr.", "cases_count": 1, "all_cases_count": 149}
+{"bar_card": "08716800", "full_name": "Mr. Theodore C. 'ted' Hake", "cases_count": 1, "all_cases_count": 540}
+{"bar_card": "15167000", "full_name": "Mr. Douglas M. 'Doug' O'Brien", "cases_count": 1, "all_cases_count": 276}

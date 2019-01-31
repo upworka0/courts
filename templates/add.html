@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block head_title %} Home || {{ block.super }} {% endblock head_title %}
+
+{% block content %}
+
+    <div class="container">
+    <br>
+    <br>
+    <form class="form" method="post">
+        {% csrf_token %}
+        <h2>Add a New Attorney into the database</h2><br><br>
+        <input class="form-control" placeholder="Copy and Paste Attorney's Weblink from Texas State Bar" name="link" value="{{ request.POST.link }}"><br>
+        <input type="submit" value="Add" class="btn btn-primary">
+    </form>
+    <br>
+    <div style="align-content: center">
+    {% if bar_car == 'GET' %}
+
+    {% elif update_type == 'single' %}
+        {% if bar_car %}
+            <h4 style="color: green">Success</h4>
+            <a href="/lawyer/{{ bar_car }}" class="btn btn-default"><strong> Go to Attorney Profile </strong></a>
+        {% else %}
+            <h4 style="color: red">Failed, Please Try Again</h4>
+        {% endif %}
+    {% endif %}
+
+    </div>
+    <br><br><br><br><br>
+    <form class="form" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <h2>or You can add a list of names from excel file</h2><br><br>
+        <input class="form-control" type="file" name="attorneys_name" value="{{ request.POST.link }}"><br>
+        <input type="submit" value="Add Names" class="btn btn-primary">
+    </form>
+    <br>
+
+    <div style="align-content: center">
+    {% if bar_car == 'GET' %}
+
+    {% elif update_type == 'all' %}
+        {% if bar_car == 'success' %}
+            <h4 style="color: green">Success</h4>
+        {% else %}
+            <h4 style="color: red">Failed, Please Try Again</h4>
+        {% endif %}
+    {% endif %}
+
+    </div>
+
+    </div>
+{% endblock %}

@@ -1,0 +1,2 @@
+{"bar_card": "01160300", "full_name": "Ms. Jessie Alliene Amos", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "24031778", "full_name": "Justice Justin Brett 'Brett' Busby", "cases_count": 1, "all_cases_count": 55}

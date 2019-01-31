@@ -1,0 +1,1 @@
+{"bar_card": "24055658", "full_name": "Mr. Alexis Enrique 'Alex' Hernandez", "cases_count": 1, "all_cases_count": 64}

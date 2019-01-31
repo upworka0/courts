@@ -1,0 +1,3 @@
+{"bar_card": "11073100", "full_name": "Ms. Leora Teicher Kahn", "cases_count": 3, "all_cases_count": 144}
+{"bar_card": "00791107", "full_name": "Mr. Chip B. Lewis", "cases_count": 1, "all_cases_count": 53}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 530}

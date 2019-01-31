@@ -1,0 +1,3 @@
+{"bar_card": "00790256", "full_name": "Mr. Bryan Lawrence 'Bryan Baker' Baker", "cases_count": 1, "all_cases_count": 35}
+{"bar_card": "01160300", "full_name": "Ms. Jessie Alliene Amos", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "06332400", "full_name": "Mr. Michael W. 'Michael' Eady", "cases_count": 1, "all_cases_count": 135}

@@ -1,0 +1,4 @@
+{"bar_card": "08193000", "full_name": "Mr. Ronald Leroy Goranson", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "13153000", "full_name": "Mr. Edgar Adams Mason", "cases_count": 1, "all_cases_count": 88}
+{"bar_card": "15740000", "full_name": "Mr. Oscar J. 'Oscar' Pena", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "22266500", "full_name": "Mr. Jack B. Zimmermann", "cases_count": 1, "all_cases_count": 46}

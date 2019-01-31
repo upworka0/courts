@@ -1,0 +1,1 @@
+{"bar_card": "24033611", "full_name": "Mr. Jeremy Charles Martin", "cases_count": 3, "all_cases_count": 101}

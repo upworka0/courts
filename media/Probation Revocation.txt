@@ -1,0 +1,7 @@
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 2, "all_cases_count": 776}
+{"bar_card": "08696000", "full_name": "Mr. John Harbell Hagler", "cases_count": 2, "all_cases_count": 302}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "00786464", "full_name": "Mr. R. Scott 'Scott' Shearer", "cases_count": 1, "all_cases_count": 108}
+{"bar_card": "18435600", "full_name": "Ms. Constance Y. 'Connie' Singleton", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "19456800", "full_name": "Mr. Lorin M. Subar", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 1, "all_cases_count": 527}

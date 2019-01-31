@@ -1,0 +1,14 @@
+{"bar_card": "16175300", "full_name": "Mr. Harry Grant Potter III", "cases_count": 2, "all_cases_count": 31}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 1, "all_cases_count": 1924}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}
+{"bar_card": "00783715", "full_name": "Mr. Sean Edward Breen", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "00795708", "full_name": "Ms. Amy Warr", "cases_count": 1, "all_cases_count": 119}
+{"bar_card": "01160300", "full_name": "Ms. Jessie Alliene Amos", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "09580400", "full_name": "Mr. Max Renea 'Renea' Hicks", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "11111500", "full_name": "Mr. Albert H. 'Al' Kauffman", "cases_count": 1, "all_cases_count": 13}
+{"bar_card": "11614500", "full_name": "Mr. Marc O. Knisely", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "14194550", "full_name": "Mr. Michael W. 'mike' Minton", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "24037129", "full_name": "Mr. Kristofer S Monson", "cases_count": 1, "all_cases_count": 140}
+{"bar_card": "24037626", "full_name": "Mr. Alexander Shin 'Alex' Valdes", "cases_count": 1, "all_cases_count": 45}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 1, "all_cases_count": 1625}
+{"bar_card": "24045423", "full_name": "Mr. Adam Warren Aston", "cases_count": 1, "all_cases_count": 28}

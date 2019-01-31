@@ -1,0 +1,9 @@
+{"bar_card": "02503000", "full_name": "Mr. Michael A. Bloom", "cases_count": 4, "all_cases_count": 38}
+{"bar_card": "18779400", "full_name": "Ms. Sallee S. Smyth", "cases_count": 2, "all_cases_count": 204}
+{"bar_card": "17790500", "full_name": "Mr. Stanley G. Schneider", "cases_count": 2, "all_cases_count": 707}
+{"bar_card": "16287480", "full_name": "Mr. I. Richard 'Richard' Price", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "18219700", "full_name": "Mr. George William 'Billy' Shepherd III", "cases_count": 1, "all_cases_count": 83}
+{"bar_card": "02237000", "full_name": "Mr. John M. Berry", "cases_count": 1, "all_cases_count": 10}
+{"bar_card": "22100350", "full_name": "Ms. Penny Wymyczak-White", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "05557300", "full_name": "Ms. Veronica L. Davis", "cases_count": 1, "all_cases_count": 57}
+{"bar_card": "09965450", "full_name": "Mr. Timothy Andrew 'Tim' Hootman", "cases_count": 1, "all_cases_count": 323}

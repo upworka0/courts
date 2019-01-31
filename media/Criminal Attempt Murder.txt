@@ -1,0 +1,3 @@
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 2, "all_cases_count": 353}
+{"bar_card": "11937450", "full_name": "Ms. Cynthia L. Lanning", "cases_count": 2, "all_cases_count": 26}
+{"bar_card": "19225300", "full_name": "Mr. John William Stickels", "cases_count": 1, "all_cases_count": 281}

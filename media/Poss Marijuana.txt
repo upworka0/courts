@@ -1,0 +1,3 @@
+{"bar_card": "06768500", "full_name": "Mr. Abe Factor", "cases_count": 1, "all_cases_count": 895}
+{"bar_card": "12166650", "full_name": "Ms. Danielle  Ailine 'Danielle Kennedy' Kennedy", "cases_count": 1, "all_cases_count": 143}
+{"bar_card": "20629400", "full_name": "Mr. Earl Raymon Waddell III", "cases_count": 1, "all_cases_count": 317}

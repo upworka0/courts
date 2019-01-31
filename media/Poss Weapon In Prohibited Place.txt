@@ -1,0 +1,13 @@
+{"bar_card": "09965450", "full_name": "Mr. Timothy Andrew 'Tim' Hootman", "cases_count": 2, "all_cases_count": 323}
+{"bar_card": "00792771", "full_name": "Ms. Dionne Susan Press", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 1, "all_cases_count": 527}
+{"bar_card": "04431900", "full_name": "Mr. Bruce Wayne 'Bruce' Cobb", "cases_count": 1, "all_cases_count": 193}
+{"bar_card": "08240320", "full_name": "Mr. Jerald Kaplan Graber", "cases_count": 1, "all_cases_count": 263}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 1, "all_cases_count": 761}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 1, "all_cases_count": 326}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 530}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 1, "all_cases_count": 612}
+{"bar_card": "24055561", "full_name": "Ms. Mandy Goldman Miller", "cases_count": 1, "all_cases_count": 223}
+{"bar_card": "24056717", "full_name": "Aimee Bolletino", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 1, "all_cases_count": 307}
+{"bar_card": "24076098", "full_name": "Mark Charles Kratovil", "cases_count": 1, "all_cases_count": 106}

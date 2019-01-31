@@ -1,0 +1,12 @@
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 1, "all_cases_count": 527}
+{"bar_card": "00795443", "full_name": "Mr. Timothy Wayne 'Tim' Inman", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "01738480", "full_name": "Mr. Bobby Dale Barina", "cases_count": 1, "all_cases_count": 208}
+{"bar_card": "06625280", "full_name": "Mr. James Michael 'Jim' English", "cases_count": 1, "all_cases_count": 73}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 1, "all_cases_count": 393}
+{"bar_card": "11572040", "full_name": "Mr. Joseph W. Kline", "cases_count": 1, "all_cases_count": 60}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 1, "all_cases_count": 776}
+{"bar_card": "19550620", "full_name": "Mr. Dean M. Swanda", "cases_count": 1, "all_cases_count": 310}
+{"bar_card": "21566200", "full_name": "Ms. Nelda F. Williams", "cases_count": 1, "all_cases_count": 127}
+{"bar_card": "24038803", "full_name": "Ms. Janet Celeste Carter 'Celeste' Blackburn", "cases_count": 1, "all_cases_count": 111}
+{"bar_card": "24069359", "full_name": "Mr. Alex Johnathan Bell", "cases_count": 1, "all_cases_count": 392}
+{"bar_card": "24083252", "full_name": "Carey Colin Jensen", "cases_count": 1, "all_cases_count": 101}

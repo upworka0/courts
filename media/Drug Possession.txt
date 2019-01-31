@@ -1,0 +1,10 @@
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 23, "all_cases_count": 527}
+{"bar_card": "10119000", "full_name": "Mr. Jerry W. Howeth", "cases_count": 6, "all_cases_count": 104}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 6, "all_cases_count": 761}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 3, "all_cases_count": 393}
+{"bar_card": "07866000", "full_name": "Mr. J. Stephen 'Stephen Gibson' Gibson", "cases_count": 1, "all_cases_count": 118}
+{"bar_card": "07818000", "full_name": "Ms. Terrie L. Sechrist", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "16355700", "full_name": "Ms. Marva J. Provo", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "17818000", "full_name": "Mr. William L. Schroeder", "cases_count": 1, "all_cases_count": 20}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 118}
+{"bar_card": "20301700", "full_name": "Mr. Richard Ellis 'Richard' Turkel", "cases_count": 1, "all_cases_count": 23}

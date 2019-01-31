@@ -1,0 +1,5 @@
+{"bar_card": "14011020", "full_name": "Mr. Franklyn 'MICK' Mickelsen Jr.", "cases_count": 2, "all_cases_count": 100}
+{"bar_card": "00790323", "full_name": "Ms. Gena Blount Bunn", "cases_count": 1, "all_cases_count": 95}
+{"bar_card": "08101000", "full_name": "Mr. Gerald Harris 'Gerry' Goldstein", "cases_count": 1, "all_cases_count": 54}
+{"bar_card": "15313350", "full_name": "Ms. Cynthia Eva Hujar 'Cynthia' Orr", "cases_count": 1, "all_cases_count": 88}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 1, "all_cases_count": 326}

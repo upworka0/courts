@@ -1,0 +1,4 @@
+{"bar_card": "00787813", "full_name": "Mr. Kevin P. Keating", "cases_count": 2, "all_cases_count": 313}
+{"bar_card": "12334020", "full_name": "Mr. Steven J. Lieberman", "cases_count": 1, "all_cases_count": 171}
+{"bar_card": "16832460", "full_name": "Ms. Lisa Rice 'Lisa Rice Hulsey' Hulsey", "cases_count": 1, "all_cases_count": 55}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 1, "all_cases_count": 326}

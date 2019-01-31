@@ -1,0 +1,70 @@
+.search-results-table th, .cases-types-table th{
+    background-color: #343a40 ;
+    color: aliceblue;
+}
+
+.sortable{
+    text-align: center;
+    /*vertical-align: middle;*/
+}
+
+.search-results-table {
+    height: 400px;
+    overflow: auto;
+}
+
+.red-back-header{
+    text-align: center;
+}
+.red-back-header span{
+    background-color: #343a40;
+    color: aliceblue;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ul.list-group.list-group-striped li:nth-of-type(odd){
+    background: white;
+}
+ul.list-group.list-group-striped li:nth-of-type(even){
+    background: lightgray;
+}
+ul.list-group.list-group-hover li:hover{
+    /*background: red;*/
+}
+
+.jumbotron{
+    background-color: #313a44 !important;
+}
+
+.jumbotron *{
+    color: aliceblue !important;
+}
+
+.jumbotron strong{
+    color: #74beff !important;
+}
+.jumbotron a{
+    color: #007bff !important;
+}
+#cases-details-link{
+    color: #ff5e5e !important;
+}
+
+table a:visited, li a:visited{
+    color: purple;
+}
+
+.cases-table td,th{
+    width:70px;
+}
+
+.lawyers-by-case td,th{
+    width:70px;
+}
+
+.search-results-table td,th{
+    width:200px !important;
+}

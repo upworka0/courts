@@ -1,0 +1,1 @@
+{"bar_card": "16460150", "full_name": "Mr. Christopher David Raesz", "cases_count": 1, "all_cases_count": 81}

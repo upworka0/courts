@@ -1,0 +1,15 @@
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 2, "all_cases_count": 284}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 2, "all_cases_count": 1406}
+{"bar_card": "00798473", "full_name": "Ms. Kathleen Sheila Rose", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 1, "all_cases_count": 222}
+{"bar_card": "07044000", "full_name": "Mr. Lawrence S. 'Larry' Fischman", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "24025628", "full_name": "Mr. Bryan Gerald Rutherford", "cases_count": 1, "all_cases_count": 192}
+{"bar_card": "24032273", "full_name": "Ms. Kendyl Taylor Hanks", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "24050883", "full_name": "Mr. Matthew Joseph Kita", "cases_count": 1, "all_cases_count": 158}
+{"bar_card": "24056551", "full_name": "Ms. Sara Elizabeth Janes", "cases_count": 1, "all_cases_count": 19}
+{"bar_card": "24060707", "full_name": "Mr. Jack George Breffney Ternan", "cases_count": 1, "all_cases_count": 13}
+{"bar_card": "24066318", "full_name": "Mr. Andrew Farish 'ANDREW' York", "cases_count": 1, "all_cases_count": 14}
+{"bar_card": "24074020", "full_name": "Mr. Hershel Robert Chapin", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "24075777", "full_name": "Elizabeth Ann Fitch", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "24080659", "full_name": "Paul James 'Paul' Downey", "cases_count": 1, "all_cases_count": 14}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}

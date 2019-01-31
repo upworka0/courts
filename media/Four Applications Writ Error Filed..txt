@@ -1,0 +1,7 @@
+{"bar_card": "01268200", "full_name": "Mr. Thomas K. Anson", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "02938600", "full_name": "Ms. Linda Claire Breck", "cases_count": 1, "all_cases_count": 196}
+{"bar_card": "04422400", "full_name": "Mr. Clay E. Coalson", "cases_count": 1, "all_cases_count": 156}
+{"bar_card": "09529600", "full_name": "Mr. Alfred R. Herrera", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "11198299", "full_name": "Ms. Mary F. Keller", "cases_count": 1, "all_cases_count": 84}
+{"bar_card": "20508300", "full_name": "Ms. Julia E. Vaughan", "cases_count": 1, "all_cases_count": 54}
+{"bar_card": "21004800", "full_name": "Ms. Amy Jeanne Welton", "cases_count": 1, "all_cases_count": 9}

@@ -1,0 +1,7 @@
+{"bar_card": "13944250", "full_name": "Ms. Kenna Mercer Seiler", "cases_count": 2, "all_cases_count": 102}
+{"bar_card": "03607200", "full_name": "Mr. Robert Thomas Cain Jr.", "cases_count": 1, "all_cases_count": 146}
+{"bar_card": "04323000", "full_name": "Mr. Richard J. Clarkson", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "02503000", "full_name": "Mr. Michael A. Bloom", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "16355700", "full_name": "Ms. Marva J. Provo", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "17602100", "full_name": "Mr. Pannal Alan 'Alan' Sanders", "cases_count": 1, "all_cases_count": 24}
+{"bar_card": "06150500", "full_name": "Mr. Kevin Dubose", "cases_count": 1, "all_cases_count": 277}

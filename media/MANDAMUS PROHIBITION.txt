@@ -1,0 +1,2 @@
+{"bar_card": "24076617", "full_name": "Tyler Whitney Pennington", "cases_count": 3, "all_cases_count": 27}
+{"bar_card": "24038768", "full_name": "Ms. Sharita W. Williams 'Sharita' Blacknall", "cases_count": 1, "all_cases_count": 49}

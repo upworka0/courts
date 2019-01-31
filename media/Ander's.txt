@@ -1,0 +1,5 @@
+{"bar_card": "06117800", "full_name": "Ms. Katherine A. 'Kathi' Drew", "cases_count": 14, "all_cases_count": 944}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 11, "all_cases_count": 756}
+{"bar_card": "18692100", "full_name": "Ms. Valencia Bush", "cases_count": 8, "all_cases_count": 122}
+{"bar_card": "04661700", "full_name": "Mr. George R. Conkey", "cases_count": 4, "all_cases_count": 99}
+{"bar_card": "24033062", "full_name": "Ms. Grace Eun Hae Shin", "cases_count": 1, "all_cases_count": 130}

@@ -1,0 +1,8 @@
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 1, "all_cases_count": 307}
+{"bar_card": "04431900", "full_name": "Mr. Bruce Wayne 'Bruce' Cobb", "cases_count": 1, "all_cases_count": 193}
+{"bar_card": "06117800", "full_name": "Ms. Katherine A. 'Kathi' Drew", "cases_count": 1, "all_cases_count": 944}
+{"bar_card": "08723200", "full_name": "Ms. Cynthia Rayfield-Aguilar", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "13922100", "full_name": "Ms. Beverly Daphene Melontree", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 1, "all_cases_count": 761}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 1, "all_cases_count": 536}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 1, "all_cases_count": 326}

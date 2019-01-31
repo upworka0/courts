@@ -1,0 +1,15 @@
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 3, "all_cases_count": 1924}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 2, "all_cases_count": 1415}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 2, "all_cases_count": 198}
+{"bar_card": "06157500", "full_name": "Mr. Claude E. Ducloux", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "07818000", "full_name": "Ms. Terrie L. Sechrist", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "09548200", "full_name": "Mr. Harry Herzog", "cases_count": 1, "all_cases_count": 56}
+{"bar_card": "10605500", "full_name": "Mr. Charles M. Jefferson", "cases_count": 1, "all_cases_count": 50}
+{"bar_card": "13913800", "full_name": "Mr. David H. Melasky", "cases_count": 1, "all_cases_count": 35}
+{"bar_card": "17818000", "full_name": "Mr. William L. Schroeder", "cases_count": 1, "all_cases_count": 20}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 1, "all_cases_count": 106}
+{"bar_card": "24041839", "full_name": "Mr. Dylan Benjamen Russell", "cases_count": 1, "all_cases_count": 75}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "24045921", "full_name": "Ms. Amanda Garrett Taylor", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "00793583", "full_name": "Mr. Alan Brandt Daughtry", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "01520050", "full_name": "Mr. Daryl W. Bailey", "cases_count": 1, "all_cases_count": 20}

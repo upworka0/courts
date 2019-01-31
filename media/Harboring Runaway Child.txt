@@ -1,0 +1,8 @@
+{"bar_card": "19550620", "full_name": "Mr. Dean M. Swanda", "cases_count": 2, "all_cases_count": 310}
+{"bar_card": "24051190", "full_name": "Ms. Kimberly Joy 'Kim' Duncan", "cases_count": 2, "all_cases_count": 158}
+{"bar_card": "00797589", "full_name": "Mr. Enrico Baltazar 'Rico' Valdez", "cases_count": 1, "all_cases_count": 426}
+{"bar_card": "12166650", "full_name": "Ms. Danielle  Ailine 'Danielle Kennedy' Kennedy", "cases_count": 1, "all_cases_count": 143}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 756}
+{"bar_card": "24050279", "full_name": "Ms. Riann Christine Moore", "cases_count": 1, "all_cases_count": 316}
+{"bar_card": "12830050", "full_name": "Mr. Kenneth G. 'Ken' Mahaffey", "cases_count": 1, "all_cases_count": 230}
+{"bar_card": "00794721", "full_name": "Ms. Holly Eileen 'Holly' Taylor", "cases_count": 1, "all_cases_count": 238}

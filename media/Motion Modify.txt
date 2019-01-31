@@ -1,0 +1,7 @@
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 2, "all_cases_count": 776}
+{"bar_card": "09529400", "full_name": "Ms. Rande K. Herrell", "cases_count": 1, "all_cases_count": 566}
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "06717580", "full_name": "Mr. George Stephen 'Stephen' Evans", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "18779400", "full_name": "Ms. Sallee S. Smyth", "cases_count": 1, "all_cases_count": 204}
+{"bar_card": "19516000", "full_name": "Mr. Frank L. 'Frank' Supercinski", "cases_count": 1, "all_cases_count": 66}
+{"bar_card": "24012401", "full_name": "Ms. Daphne Lynette Session", "cases_count": 1, "all_cases_count": 29}

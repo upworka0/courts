@@ -1,0 +1,3 @@
+{"bar_card": "00784242", "full_name": "Ms. Cynthia Watson Hellstern", "cases_count": 1, "all_cases_count": 318}
+{"bar_card": "24048680", "full_name": "Mr. Michael Mowla", "cases_count": 1, "all_cases_count": 283}
+{"bar_card": "24049081", "full_name": "Mr. David Christopher 'Chris' Hesse", "cases_count": 1, "all_cases_count": 18}

@@ -1,0 +1,15 @@
+{"bar_card": "06332400", "full_name": "Mr. Michael W. 'Michael' Eady", "cases_count": 4, "all_cases_count": 135}
+{"bar_card": "24027934", "full_name": "Mr. Ryan David Clinton", "cases_count": 2, "all_cases_count": 99}
+{"bar_card": "00787380", "full_name": "Mr. Steve Charles 'Steve' Dollinger", "cases_count": 1, "all_cases_count": 11}
+{"bar_card": "00790901", "full_name": "Mr. Richard Russell Hollenbeck", "cases_count": 1, "all_cases_count": 132}
+{"bar_card": "02006200", "full_name": "Ms. Debora B 'Debbie' Alsup", "cases_count": 1, "all_cases_count": 151}
+{"bar_card": "07818000", "full_name": "Ms. Terrie L. Sechrist", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "09802010", "full_name": "Mr. Richard P. Hogan Jr.", "cases_count": 1, "all_cases_count": 320}
+{"bar_card": "12715200", "full_name": "Mr. Roland Scott 'Scott' Lyford", "cases_count": 1, "all_cases_count": 57}
+{"bar_card": "18779400", "full_name": "Ms. Sallee S. Smyth", "cases_count": 1, "all_cases_count": 204}
+{"bar_card": "24007877", "full_name": "Mr. Stephen Douglas 'Doug' Pritchett Jr.", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "24007953", "full_name": "Mr. Gino John Rossini", "cases_count": 1, "all_cases_count": 46}
+{"bar_card": "24008053", "full_name": "Ms. Kelli Lynn Smith", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 1, "all_cases_count": 1924}
+{"bar_card": "24032706", "full_name": "Ms. Jessica 'Jessica' Zavadil", "cases_count": 1, "all_cases_count": 60}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 1, "all_cases_count": 1406}

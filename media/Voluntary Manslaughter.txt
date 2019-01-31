@@ -1,0 +1,2 @@
+{"bar_card": "08716800", "full_name": "Mr. Theodore C. 'ted' Hake", "cases_count": 2, "all_cases_count": 540}
+{"bar_card": "08696000", "full_name": "Mr. John Harbell Hagler", "cases_count": 1, "all_cases_count": 302}

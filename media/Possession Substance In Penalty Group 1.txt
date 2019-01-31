@@ -1,0 +1,9 @@
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 6, "all_cases_count": 530}
+{"bar_card": "11073100", "full_name": "Ms. Leora Teicher Kahn", "cases_count": 2, "all_cases_count": 144}
+{"bar_card": "09887175", "full_name": "Ms. Mary Jo Holloway", "cases_count": 2, "all_cases_count": 59}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 2, "all_cases_count": 536}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 2, "all_cases_count": 326}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 1, "all_cases_count": 221}
+{"bar_card": "08240320", "full_name": "Mr. Jerald Kaplan Graber", "cases_count": 1, "all_cases_count": 263}
+{"bar_card": "24001933", "full_name": "Mr. Philip Thomas Cowen", "cases_count": 1, "all_cases_count": 166}
+{"bar_card": "00797496", "full_name": "Mr. Perry Richard Stevens", "cases_count": 1, "all_cases_count": 134}

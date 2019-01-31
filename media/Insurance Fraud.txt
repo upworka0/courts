@@ -1,0 +1,8 @@
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 1, "all_cases_count": 1008}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 756}
+{"bar_card": "00797589", "full_name": "Mr. Enrico Baltazar 'Rico' Valdez", "cases_count": 1, "all_cases_count": 426}
+{"bar_card": "06625280", "full_name": "Mr. James Michael 'Jim' English", "cases_count": 1, "all_cases_count": 73}
+{"bar_card": "16460150", "full_name": "Mr. Christopher David Raesz", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "17790500", "full_name": "Mr. Stanley G. Schneider", "cases_count": 1, "all_cases_count": 707}
+{"bar_card": "18078300", "full_name": "Mr. Kollin Shadle", "cases_count": 1, "all_cases_count": 411}

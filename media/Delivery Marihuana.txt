@@ -1,0 +1,11 @@
+{"bar_card": "00796240", "full_name": "Mr. Martin Eric Braddy", "cases_count": 2, "all_cases_count": 249}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 2, "all_cases_count": 685}
+{"bar_card": "00795861", "full_name": "Mr. Aaron Ray Clements", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 1, "all_cases_count": 776}
+{"bar_card": "16984600", "full_name": "Mr. Michael David Robbins", "cases_count": 1, "all_cases_count": 560}
+{"bar_card": "17383000", "full_name": "Mr. Lane Eyer Rugeley", "cases_count": 1, "all_cases_count": 44}
+{"bar_card": "17646450", "full_name": "Mr. Renato Santos Jr.", "cases_count": 1, "all_cases_count": 135}
+{"bar_card": "24004685", "full_name": "Ms. Cori Ann 'Cori' Harbour-Valdez", "cases_count": 1, "all_cases_count": 59}
+{"bar_card": "00787813", "full_name": "Mr. Kevin P. Keating", "cases_count": 1, "all_cases_count": 313}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 530}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 1, "all_cases_count": 609}

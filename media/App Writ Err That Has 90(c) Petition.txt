@@ -1,0 +1,15 @@
+{"bar_card": "00787896", "full_name": "Mr. Gregory Joseph Lensing", "cases_count": 1, "all_cases_count": 60}
+{"bar_card": "00788253", "full_name": "Ms. Macey Reasoner 'Macey' Stokes", "cases_count": 1, "all_cases_count": 135}
+{"bar_card": "00791575", "full_name": "Mr. Jonathan Jeffrey Ross", "cases_count": 1, "all_cases_count": 46}
+{"bar_card": "01797100", "full_name": "Ms. Pamela Stanton Baron", "cases_count": 1, "all_cases_count": 125}
+{"bar_card": "02752000", "full_name": "Mr. Bruce W. Bowman Jr.", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "03239100", "full_name": "Ms. Jennifer Bruch Hogan", "cases_count": 1, "all_cases_count": 312}
+{"bar_card": "05650800", "full_name": "Mr. Hector Deleon", "cases_count": 1, "all_cases_count": 47}
+{"bar_card": "09802010", "full_name": "Mr. Richard P. Hogan Jr.", "cases_count": 1, "all_cases_count": 320}
+{"bar_card": "10239520", "full_name": "Mr. Steven L. 'Steve' Hughes", "cases_count": 1, "all_cases_count": 396}
+{"bar_card": "12727500", "full_name": "Mr. Jeffrey Scott 'Jeff' Lynch", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "15633800", "full_name": "Mr. Timothy Patton", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "17186350", "full_name": "Mr. Stephan Bruce 'Steve' Rogers", "cases_count": 1, "all_cases_count": 117}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 1, "all_cases_count": 225}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 1, "all_cases_count": 106}
+{"bar_card": "20559350", "full_name": "Mr. Ramon G. 'Ray' Viada III", "cases_count": 1, "all_cases_count": 122}

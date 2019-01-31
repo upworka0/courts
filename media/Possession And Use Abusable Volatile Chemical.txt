@@ -1,0 +1,2 @@
+{"bar_card": "00787813", "full_name": "Mr. Kevin P. Keating", "cases_count": 2, "all_cases_count": 313}
+{"bar_card": "11825500", "full_name": "Mr. Jules L. Laird Jr.", "cases_count": 2, "all_cases_count": 133}

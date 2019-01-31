@@ -1,0 +1,5 @@
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 33, "all_cases_count": 326}
+{"bar_card": "06768725", "full_name": "Mr. Cary Marshall Faden", "cases_count": 1, "all_cases_count": 337}
+{"bar_card": "11073100", "full_name": "Ms. Leora Teicher Kahn", "cases_count": 1, "all_cases_count": 144}
+{"bar_card": "11825500", "full_name": "Mr. Jules L. Laird Jr.", "cases_count": 1, "all_cases_count": 133}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 1, "all_cases_count": 536}

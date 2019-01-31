@@ -1,0 +1,2 @@
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 2, "all_cases_count": 117}
+{"bar_card": "01831600", "full_name": "Ms. Mary Barrow Nichols", "cases_count": 1, "all_cases_count": 130}

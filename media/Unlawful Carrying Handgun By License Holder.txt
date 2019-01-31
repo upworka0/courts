@@ -1,0 +1,3 @@
+{"bar_card": "11825500", "full_name": "Mr. Jules L. Laird Jr.", "cases_count": 1, "all_cases_count": 133}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 1, "all_cases_count": 326}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 530}

@@ -1,0 +1,11 @@
+{"bar_card": "18692100", "full_name": "Ms. Valencia Bush", "cases_count": 3, "all_cases_count": 122}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 1, "all_cases_count": 1008}
+{"bar_card": "00794430", "full_name": "Mr. M. Ariel Payan", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "01738480", "full_name": "Mr. Bobby Dale Barina", "cases_count": 1, "all_cases_count": 208}
+{"bar_card": "06717580", "full_name": "Mr. George Stephen 'Stephen' Evans", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 1, "all_cases_count": 776}
+{"bar_card": "24068071", "full_name": "Mr. Gabriel Caleb Price", "cases_count": 1, "all_cases_count": 390}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 1, "all_cases_count": 1625}
+{"bar_card": "24085685", "full_name": "Adam Logan Arrington", "cases_count": 1, "all_cases_count": 26}

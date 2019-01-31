@@ -1,0 +1,1 @@
+{"bar_card": "09529400", "full_name": "Ms. Rande K. Herrell", "cases_count": 3, "all_cases_count": 566}

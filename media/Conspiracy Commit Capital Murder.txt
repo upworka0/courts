@@ -1,0 +1,7 @@
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 3, "all_cases_count": 612}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 2, "all_cases_count": 609}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 756}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "01488000", "full_name": "Ms. Shirley Baccus-Lobel", "cases_count": 1, "all_cases_count": 11}
+{"bar_card": "00794227", "full_name": "Mr. Michael Adrian Mark", "cases_count": 1, "all_cases_count": 119}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 1, "all_cases_count": 1625}

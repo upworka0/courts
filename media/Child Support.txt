@@ -1,0 +1,5 @@
+{"bar_card": "09380928", "full_name": "Mr. G. David 'David' Heiman", "cases_count": 2, "all_cases_count": 29}
+{"bar_card": "09529400", "full_name": "Ms. Rande K. Herrell", "cases_count": 2, "all_cases_count": 566}
+{"bar_card": "05834200", "full_name": "Mr. Donald Bradley 'Brad' Dickinson", "cases_count": 1, "all_cases_count": 92}
+{"bar_card": "06755450", "full_name": "Ms. J. Darlene Ewing", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 1, "all_cases_count": 58}

@@ -1,0 +1,17 @@
+{"bar_card": "18858000", "full_name": "Mr. Luther H. 'Luke' Soules III", "cases_count": 2, "all_cases_count": 165}
+{"bar_card": "00787295", "full_name": "Mr. Thomas B. 'Thomas' Cowart", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "00791575", "full_name": "Mr. Jonathan Jeffrey Ross", "cases_count": 1, "all_cases_count": 46}
+{"bar_card": "01268200", "full_name": "Mr. Thomas K. Anson", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "06886600", "full_name": "Mr. Arthur Samuel Feldman", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "07827700", "full_name": "Ms. Ellen Gerson Tagtmeier", "cases_count": 1, "all_cases_count": 19}
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 1, "all_cases_count": 284}
+{"bar_card": "08763500", "full_name": "Mr. Lance Carroll Hall", "cases_count": 1, "all_cases_count": 68}
+{"bar_card": "08817000", "full_name": "Mr. Ferriel C. Hamby Jr.", "cases_count": 1, "all_cases_count": 71}
+{"bar_card": "09219000", "full_name": "Mr. Michael A. 'Mike' Hatchell", "cases_count": 1, "all_cases_count": 489}
+{"bar_card": "11249500", "full_name": "Mr. David E. 'David' Keltner", "cases_count": 1, "all_cases_count": 345}
+{"bar_card": "13610650", "full_name": "Mr. Charles W. McGarry", "cases_count": 1, "all_cases_count": 284}
+{"bar_card": "15103250", "full_name": "Mr. R. Michael 'Mike' Northrup", "cases_count": 1, "all_cases_count": 117}
+{"bar_card": "18913500", "full_name": "Mr. Joseph Wilson Spence", "cases_count": 1, "all_cases_count": 963}
+{"bar_card": "24007633", "full_name": "Mr. Shawn Malcolm McCaskill", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "00786464", "full_name": "Mr. R. Scott 'Scott' Shearer", "cases_count": 1, "all_cases_count": 108}
+{"bar_card": "24007721", "full_name": "Mr. Michael J. Murray", "cases_count": 1, "all_cases_count": 99}

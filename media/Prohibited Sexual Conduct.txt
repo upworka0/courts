@@ -1,0 +1,6 @@
+{"bar_card": "00790919", "full_name": "Mr. Troy Alan Hornsby", "cases_count": 1, "all_cases_count": 306}
+{"bar_card": "08210000", "full_name": "Mr. Kenneth R. 'Ken' Gordon", "cases_count": 1, "all_cases_count": 116}
+{"bar_card": "12334020", "full_name": "Mr. Steven J. Lieberman", "cases_count": 1, "all_cases_count": 171}
+{"bar_card": "24025336", "full_name": "Mr. Frederick Thomas 'Rick' Dunbar", "cases_count": 1, "all_cases_count": 153}
+{"bar_card": "24041130", "full_name": "Mr. Jason Lee Horton", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "24055561", "full_name": "Ms. Mandy Goldman Miller", "cases_count": 1, "all_cases_count": 223}

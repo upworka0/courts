@@ -1,0 +1,20 @@
+{"bar_card": "00788354", "full_name": "Mr. Clint Foster Sare", "cases_count": 6, "all_cases_count": 269}
+{"bar_card": "00784242", "full_name": "Ms. Cynthia Watson Hellstern", "cases_count": 6, "all_cases_count": 318}
+{"bar_card": "16507500", "full_name": "Mr. Alberto M. 'Beto' Ramon", "cases_count": 3, "all_cases_count": 56}
+{"bar_card": "90001898", "full_name": "Ms. Kristen Elaine Jernigan", "cases_count": 2, "all_cases_count": 234}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 2, "all_cases_count": 1415}
+{"bar_card": "07007300", "full_name": "Ms. Carolyn Findley Price", "cases_count": 2, "all_cases_count": 16}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 2, "all_cases_count": 685}
+{"bar_card": "15740000", "full_name": "Mr. Oscar J. 'Oscar' Pena", "cases_count": 2, "all_cases_count": 82}
+{"bar_card": "18913500", "full_name": "Mr. Joseph Wilson Spence", "cases_count": 2, "all_cases_count": 963}
+{"bar_card": "24053545", "full_name": "Mr. Brent Edward Webster", "cases_count": 2, "all_cases_count": 6}
+{"bar_card": "24069359", "full_name": "Mr. Alex Johnathan Bell", "cases_count": 2, "all_cases_count": 392}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 2, "all_cases_count": 1406}
+{"bar_card": "20871500", "full_name": "Mr. Larry Logan 'LARRY' Warner Sr.", "cases_count": 1, "all_cases_count": 361}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 756}
+{"bar_card": "06662300", "full_name": "Mr. David A. Escamilla", "cases_count": 1, "all_cases_count": 308}
+{"bar_card": "21236300", "full_name": "Mr. Richard E. Wetzel", "cases_count": 1, "all_cases_count": 334}
+{"bar_card": "24007877", "full_name": "Mr. Stephen Douglas 'Doug' Pritchett Jr.", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "24038400", "full_name": "Ms. Shannon Lee Greenan", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "00788076", "full_name": "Mr. Mark William Moran", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "24059834", "full_name": "Mr. Anthony Todd 'Tony' Golz", "cases_count": 1, "all_cases_count": 53}

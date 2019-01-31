@@ -1,0 +1,10 @@
+{"bar_card": "01857250", "full_name": "Mr. Russell R. Barton", "cases_count": 1, "all_cases_count": 68}
+{"bar_card": "04035650", "full_name": "John Hill Cayce Jr.", "cases_count": 1, "all_cases_count": 89}
+{"bar_card": "12266480", "full_name": "Ms. Katherine Lynn 'Kathy' Levy", "cases_count": 1, "all_cases_count": 174}
+{"bar_card": "17281075", "full_name": "Mr. Brent Marcus 'Brent Rosenthal' Rosenthal", "cases_count": 1, "all_cases_count": 70}
+{"bar_card": "18415600", "full_name": "Mr. Andrew D. 'Andy' Sims", "cases_count": 1, "all_cases_count": 73}
+{"bar_card": "24007633", "full_name": "Mr. Shawn Malcolm McCaskill", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "24032924", "full_name": "Mr. Troy Douglas Okruhlik", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "24047203", "full_name": "Mr. Joseph David 'Joe' Sibley IV", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "24050883", "full_name": "Mr. Matthew Joseph Kita", "cases_count": 1, "all_cases_count": 158}
+{"bar_card": "24075777", "full_name": "Elizabeth Ann Fitch", "cases_count": 1, "all_cases_count": 5}

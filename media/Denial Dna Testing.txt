@@ -1,0 +1,3 @@
+{"bar_card": "00792491", "full_name": "Mr. David Jerome Eveld", "cases_count": 3, "all_cases_count": 23}
+{"bar_card": "00797589", "full_name": "Mr. Enrico Baltazar 'Rico' Valdez", "cases_count": 2, "all_cases_count": 426}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 1, "all_cases_count": 326}

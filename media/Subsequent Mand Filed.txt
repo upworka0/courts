@@ -1,0 +1,1 @@
+{"bar_card": "11054600", "full_name": "Mr. P. Michael 'Michael' Jung", "cases_count": 1, "all_cases_count": 299}

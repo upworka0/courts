@@ -1,0 +1,23 @@
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 2, "all_cases_count": 1415}
+{"bar_card": "00797202", "full_name": "Ms. Meredith Bishop Parenti", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "00850600", "full_name": "Mr. Carl David Adams", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "02495500", "full_name": "Ms. Elizabeth G. 'Heidi' Bloch", "cases_count": 1, "all_cases_count": 199}
+{"bar_card": "03565600", "full_name": "Mr. Daniel H. 'Dan' Byrne", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "04840300", "full_name": "Mr. Clint Alexander 'Clint' Corrie", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "10059550", "full_name": "Mr. Samuel A. Houston", "cases_count": 1, "all_cases_count": 70}
+{"bar_card": "11035400", "full_name": "Mr. Jeff Joyce", "cases_count": 1, "all_cases_count": 72}
+{"bar_card": "11672850", "full_name": "Ms. Charlene Cantrell 'Charlene' Koonce", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "24007642", "full_name": "Ms. Heather Bailey New", "cases_count": 1, "all_cases_count": 31}
+{"bar_card": "24012196", "full_name": "Mr. Michael Philip Aigen", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "24028267", "full_name": "Mr. Daniel 'Danny' David", "cases_count": 1, "all_cases_count": 15}
+{"bar_card": "24031594", "full_name": "Mr. David Jefrie 'David' Mizgala", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "24031980", "full_name": "Mr. Sean Reed Cox", "cases_count": 1, "all_cases_count": 31}
+{"bar_card": "24032273", "full_name": "Ms. Kendyl Taylor Hanks", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "24036969", "full_name": "Mr. Scott Edward Lindsey", "cases_count": 1, "all_cases_count": 15}
+{"bar_card": "24044849", "full_name": "Mr. Christopher Stephen 'Chris' Johns", "cases_count": 1, "all_cases_count": 24}
+{"bar_card": "24058096", "full_name": "Mr. Mazin A. Sbaiti", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "24069040", "full_name": "Timothy Adam Robinson", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "24071537", "full_name": "Mr. Clinton Warren 'Clint' Twaddell III", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "24078563", "full_name": "Stephen Sullivan Gilstrap", "cases_count": 1, "all_cases_count": 10}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 1, "all_cases_count": 1625}
+{"bar_card": "24080659", "full_name": "Paul James 'Paul' Downey", "cases_count": 1, "all_cases_count": 14}

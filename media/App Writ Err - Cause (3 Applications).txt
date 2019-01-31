@@ -1,0 +1,6 @@
+{"bar_card": "02752000", "full_name": "Mr. Bruce W. Bowman Jr.", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "02938600", "full_name": "Ms. Linda Claire Breck", "cases_count": 1, "all_cases_count": 196}
+{"bar_card": "06150500", "full_name": "Mr. Kevin Dubose", "cases_count": 1, "all_cases_count": 277}
+{"bar_card": "07555580", "full_name": "Mr. David Allen Furlow", "cases_count": 1, "all_cases_count": 109}
+{"bar_card": "10239520", "full_name": "Mr. Steven L. 'Steve' Hughes", "cases_count": 1, "all_cases_count": 396}
+{"bar_card": "10605500", "full_name": "Mr. Charles M. Jefferson", "cases_count": 1, "all_cases_count": 50}

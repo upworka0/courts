@@ -1,0 +1,2 @@
+{"bar_card": "01720800", "full_name": "Ms. Stephanie L. Stevens", "cases_count": 1, "all_cases_count": 119}
+{"bar_card": "20155300", "full_name": "Mr. David Duval Towler III", "cases_count": 1, "all_cases_count": 59}

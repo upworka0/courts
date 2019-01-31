@@ -1,0 +1,7 @@
+{"bar_card": "06768725", "full_name": "Mr. Cary Marshall Faden", "cases_count": 3, "all_cases_count": 337}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 3, "all_cases_count": 530}
+{"bar_card": "00787813", "full_name": "Mr. Kevin P. Keating", "cases_count": 2, "all_cases_count": 313}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "11476350", "full_name": "Mr. Charles G. Kingsbury", "cases_count": 1, "all_cases_count": 77}
+{"bar_card": "09887175", "full_name": "Ms. Mary Jo Holloway", "cases_count": 1, "all_cases_count": 59}
+{"bar_card": "17790500", "full_name": "Mr. Stanley G. Schneider", "cases_count": 1, "all_cases_count": 707}

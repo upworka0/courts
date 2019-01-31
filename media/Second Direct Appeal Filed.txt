@@ -1,0 +1,10 @@
+{"bar_card": "00795708", "full_name": "Ms. Amy Warr", "cases_count": 1, "all_cases_count": 119}
+{"bar_card": "09219000", "full_name": "Mr. Michael A. 'Mike' Hatchell", "cases_count": 1, "all_cases_count": 489}
+{"bar_card": "16175300", "full_name": "Mr. Harry Grant Potter III", "cases_count": 1, "all_cases_count": 31}
+{"bar_card": "24008169", "full_name": "Mr. Mark Ryan Trachtenberg", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "24032626", "full_name": "Ms. Susan Allison Kidwell", "cases_count": 1, "all_cases_count": 99}
+{"bar_card": "24035655", "full_name": "Mr. Rance Lamar Craft", "cases_count": 1, "all_cases_count": 71}
+{"bar_card": "24037129", "full_name": "Mr. Kristofer S Monson", "cases_count": 1, "all_cases_count": 140}
+{"bar_card": "24037203", "full_name": "Ms. Shelby Leigh O'Brien", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "24045423", "full_name": "Mr. Adam Warren Aston", "cases_count": 1, "all_cases_count": 28}
+{"bar_card": "24052766", "full_name": "James Chiun-Yue 'Jim' Ho", "cases_count": 1, "all_cases_count": 103}

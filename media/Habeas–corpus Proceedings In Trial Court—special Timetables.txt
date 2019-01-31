@@ -1,0 +1,4 @@
+{"bar_card": "05557300", "full_name": "Ms. Veronica L. Davis", "cases_count": 8, "all_cases_count": 57}
+{"bar_card": "00792970", "full_name": "Mr. Mark W. Bennett", "cases_count": 1, "all_cases_count": 171}
+{"bar_card": "09833450", "full_name": "Ms. Terri Tipton Holder", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "90001832", "full_name": "Mr. John M. Parras", "cases_count": 1, "all_cases_count": 7}

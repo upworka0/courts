@@ -1,0 +1,5 @@
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 685}
+{"bar_card": "18532200", "full_name": "Mr. Alwin A. 'Al' Smith", "cases_count": 1, "all_cases_count": 65}
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 1, "all_cases_count": 142}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 1, "all_cases_count": 536}
+{"bar_card": "24069359", "full_name": "Mr. Alex Johnathan Bell", "cases_count": 1, "all_cases_count": 392}

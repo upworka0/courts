@@ -1,0 +1,1 @@
+{"bar_card": "10748300", "full_name": "Ms. Jody L. Johnson", "cases_count": 1, "all_cases_count": 5}

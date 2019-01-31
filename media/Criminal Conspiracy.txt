@@ -1,0 +1,9 @@
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 1, "all_cases_count": 527}
+{"bar_card": "00794430", "full_name": "Mr. M. Ariel Payan", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "04688650", "full_name": "Mr. Michael D. 'Mike' Conner", "cases_count": 1, "all_cases_count": 180}
+{"bar_card": "04705400", "full_name": "Mr. Joseph A. Connors III", "cases_count": 1, "all_cases_count": 335}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 353}
+{"bar_card": "15740000", "full_name": "Mr. Oscar J. 'Oscar' Pena", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "24001933", "full_name": "Mr. Philip Thomas Cowen", "cases_count": 1, "all_cases_count": 166}
+{"bar_card": "24066670", "full_name": "Lane Andrew Haygood", "cases_count": 1, "all_cases_count": 125}
+{"bar_card": "24067554", "full_name": "Mr. Craig William Cosper", "cases_count": 1, "all_cases_count": 20}

@@ -1,0 +1,5 @@
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}
+{"bar_card": "00796633", "full_name": "Mr. Kevin  Michael Givens", "cases_count": 1, "all_cases_count": 210}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "13354000", "full_name": "Mr. Dudley Davis 'Dudley' McCalla", "cases_count": 1, "all_cases_count": 55}
+{"bar_card": "24007721", "full_name": "Mr. Michael J. Murray", "cases_count": 1, "all_cases_count": 99}

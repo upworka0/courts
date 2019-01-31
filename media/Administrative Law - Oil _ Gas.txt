@@ -1,0 +1,4 @@
+{"bar_card": "00794264", "full_name": "Ms. Marnie Ann McCormick", "cases_count": 3, "all_cases_count": 92}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 2, "all_cases_count": 1726}
+{"bar_card": "09529600", "full_name": "Mr. Alfred R. Herrera", "cases_count": 2, "all_cases_count": 21}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 1, "all_cases_count": 1406}

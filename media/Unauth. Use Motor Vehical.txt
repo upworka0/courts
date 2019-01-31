@@ -1,0 +1,10 @@
+{"bar_card": "15167000", "full_name": "Mr. Douglas M. 'Doug' O'Brien", "cases_count": 3, "all_cases_count": 276}
+{"bar_card": "04457300", "full_name": "Mr. Winston Earle Cochran Jr.", "cases_count": 2, "all_cases_count": 701}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 685}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 1, "all_cases_count": 430}
+{"bar_card": "11073100", "full_name": "Ms. Leora Teicher Kahn", "cases_count": 1, "all_cases_count": 144}
+{"bar_card": "13335300", "full_name": "Mr. Neil C. McCabe", "cases_count": 1, "all_cases_count": 72}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 1, "all_cases_count": 536}
+{"bar_card": "00789203", "full_name": "Mr. Eric Charles Carcerano", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "06768725", "full_name": "Mr. Cary Marshall Faden", "cases_count": 1, "all_cases_count": 337}

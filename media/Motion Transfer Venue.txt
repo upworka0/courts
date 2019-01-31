@@ -1,0 +1,3 @@
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}
+{"bar_card": "01857250", "full_name": "Mr. Russell R. Barton", "cases_count": 1, "all_cases_count": 68}
+{"bar_card": "06886600", "full_name": "Mr. Arthur Samuel Feldman", "cases_count": 1, "all_cases_count": 12}

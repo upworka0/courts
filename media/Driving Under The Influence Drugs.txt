@@ -1,0 +1,4 @@
+{"bar_card": "00784242", "full_name": "Ms. Cynthia Watson Hellstern", "cases_count": 1, "all_cases_count": 318}
+{"bar_card": "06096050", "full_name": "Mr. Peter F. Doyle Jr.", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "07866000", "full_name": "Mr. J. Stephen 'Stephen Gibson' Gibson", "cases_count": 1, "all_cases_count": 118}
+{"bar_card": "24055561", "full_name": "Ms. Mandy Goldman Miller", "cases_count": 1, "all_cases_count": 223}

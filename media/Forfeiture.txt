@@ -1,0 +1,12 @@
+{"bar_card": "00788354", "full_name": "Mr. Clint Foster Sare", "cases_count": 3, "all_cases_count": 269}
+{"bar_card": "24007027", "full_name": "Mr. David Andrew Colley", "cases_count": 2, "all_cases_count": 36}
+{"bar_card": "00784242", "full_name": "Ms. Cynthia Watson Hellstern", "cases_count": 2, "all_cases_count": 318}
+{"bar_card": "00790919", "full_name": "Mr. Troy Alan Hornsby", "cases_count": 1, "all_cases_count": 306}
+{"bar_card": "00795301", "full_name": "Mr. Clay S. 'Clay' Conrad", "cases_count": 1, "all_cases_count": 75}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 685}
+{"bar_card": "18078300", "full_name": "Mr. Kollin Shadle", "cases_count": 1, "all_cases_count": 411}
+{"bar_card": "24027592", "full_name": "Mr. Calvin Deshon Parks", "cases_count": 1, "all_cases_count": 43}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "24069359", "full_name": "Mr. Alex Johnathan Bell", "cases_count": 1, "all_cases_count": 392}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 1, "all_cases_count": 307}
+{"bar_card": "00787813", "full_name": "Mr. Kevin P. Keating", "cases_count": 1, "all_cases_count": 313}

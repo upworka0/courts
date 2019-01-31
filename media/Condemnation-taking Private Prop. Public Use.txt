@@ -1,0 +1,15 @@
+{"bar_card": "04086600", "full_name": "Ms. Andrea Chan", "cases_count": 4, "all_cases_count": 146}
+{"bar_card": "20579310", "full_name": "Mr. George William Vie III", "cases_count": 3, "all_cases_count": 319}
+{"bar_card": "11058030", "full_name": "Mr. Frederick D. 'Fred' Junkin", "cases_count": 2, "all_cases_count": 72}
+{"bar_card": "01739050", "full_name": "Mr. Ben A. Baring Jr.", "cases_count": 1, "all_cases_count": 120}
+{"bar_card": "06150500", "full_name": "Mr. Kevin Dubose", "cases_count": 1, "all_cases_count": 277}
+{"bar_card": "09053000", "full_name": "Mr. Brantly Harris", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "00784899", "full_name": "Ms. Gwendolyn Johnson 'Gwen' Samora", "cases_count": 1, "all_cases_count": 66}
+{"bar_card": "13448300", "full_name": "Mr. Robert Patrick 'bob' McConnell", "cases_count": 1, "all_cases_count": 69}
+{"bar_card": "16215500", "full_name": "Mr. Bruce Stephen Powers", "cases_count": 1, "all_cases_count": 100}
+{"bar_card": "17646450", "full_name": "Mr. Renato Santos Jr.", "cases_count": 1, "all_cases_count": 135}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 169}
+{"bar_card": "19034350", "full_name": "Mr. William B. 'Bruce' Stanfill", "cases_count": 1, "all_cases_count": 23}
+{"bar_card": "09388250", "full_name": "Mr. William Scott 'Bill' Helfand", "cases_count": 1, "all_cases_count": 279}
+{"bar_card": "00791261", "full_name": "Ms. Danica Lynn 'Danica' Milios", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "00793583", "full_name": "Mr. Alan Brandt Daughtry", "cases_count": 1, "all_cases_count": 189}

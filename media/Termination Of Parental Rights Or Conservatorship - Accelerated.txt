@@ -1,0 +1,1 @@
+{"bar_card": "24041117", "full_name": "Ms. Christina Gail 'Christina' Hollwarth", "cases_count": 1, "all_cases_count": 3}

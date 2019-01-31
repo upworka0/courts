@@ -1,0 +1,37 @@
+{"bar_card": "11249500", "full_name": "Mr. David E. 'David' Keltner", "cases_count": 3, "all_cases_count": 345}
+{"bar_card": "13947200", "full_name": "Mr. John R. Mercy", "cases_count": 2, "all_cases_count": 262}
+{"bar_card": "04715800", "full_name": "Ms. LaDawn Horn 'LaDawn' Conway", "cases_count": 2, "all_cases_count": 69}
+{"bar_card": "00874900", "full_name": "Ms. Rebecca Adams 'Becca' Cavner", "cases_count": 1, "all_cases_count": 20}
+{"bar_card": "02495500", "full_name": "Ms. Elizabeth G. 'Heidi' Bloch", "cases_count": 1, "all_cases_count": 199}
+{"bar_card": "03239100", "full_name": "Ms. Jennifer Bruch Hogan", "cases_count": 1, "all_cases_count": 312}
+{"bar_card": "03343200", "full_name": "Mr. William C. 'Charles' Bundren", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "04086600", "full_name": "Ms. Andrea Chan", "cases_count": 1, "all_cases_count": 146}
+{"bar_card": "04241500", "full_name": "Mr. Joseph G. 'Joe' Chumlea", "cases_count": 1, "all_cases_count": 30}
+{"bar_card": "04323000", "full_name": "Mr. Richard J. Clarkson", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "06150500", "full_name": "Mr. Kevin Dubose", "cases_count": 1, "all_cases_count": 277}
+{"bar_card": "06332400", "full_name": "Mr. Michael W. 'Michael' Eady", "cases_count": 1, "all_cases_count": 135}
+{"bar_card": "07898500", "full_name": "Mr. John Ralph Gilbert", "cases_count": 1, "all_cases_count": 36}
+{"bar_card": "09219000", "full_name": "Mr. Michael A. 'Mike' Hatchell", "cases_count": 1, "all_cases_count": 489}
+{"bar_card": "09489100", "full_name": "Ms. Mary H. 'Molly' Hatchell", "cases_count": 1, "all_cases_count": 159}
+{"bar_card": "09802010", "full_name": "Mr. Richard P. Hogan Jr.", "cases_count": 1, "all_cases_count": 320}
+{"bar_card": "09885000", "full_name": "Mr. Gordon A. Holloway", "cases_count": 1, "all_cases_count": 28}
+{"bar_card": "09977050", "full_name": "Ms. Kathleen Hopkins 'Kate' Alsina", "cases_count": 1, "all_cases_count": 115}
+{"bar_card": "10239520", "full_name": "Mr. Steven L. 'Steve' Hughes", "cases_count": 1, "all_cases_count": 396}
+{"bar_card": "10929420", "full_name": "Mr. Michael Francis Jones", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "11054600", "full_name": "Mr. P. Michael 'Michael' Jung", "cases_count": 1, "all_cases_count": 299}
+{"bar_card": "11642500", "full_name": "Mr. Jeffrey Huffman 'Jeff' Kobs", "cases_count": 1, "all_cases_count": 111}
+{"bar_card": "13448300", "full_name": "Mr. Robert Patrick 'bob' McConnell", "cases_count": 1, "all_cases_count": 69}
+{"bar_card": "13967400", "full_name": "Mr. Edward L. 'Ed' Merritt", "cases_count": 1, "all_cases_count": 35}
+{"bar_card": "14967990", "full_name": "Mr. William Arthur 'Bill' Newman", "cases_count": 1, "all_cases_count": 39}
+{"bar_card": "15103250", "full_name": "Mr. R. Michael 'Mike' Northrup", "cases_count": 1, "all_cases_count": 117}
+{"bar_card": "15633800", "full_name": "Mr. Timothy Patton", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "15744050", "full_name": "Ms. Julia Fields Pendery", "cases_count": 1, "all_cases_count": 136}
+{"bar_card": "18004800", "full_name": "Mr. Steven 'Steve' Selby", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "18496100", "full_name": "Mr. Ken K. Slavin", "cases_count": 1, "all_cases_count": 267}
+{"bar_card": "18858000", "full_name": "Mr. Luther H. 'Luke' Soules III", "cases_count": 1, "all_cases_count": 165}
+{"bar_card": "19712250", "full_name": "Ms. Leslie C. 'Leslie Copeland' Taylor", "cases_count": 1, "all_cases_count": 56}
+{"bar_card": "21050060", "full_name": "Ms. Jane M. N. Webre", "cases_count": 1, "all_cases_count": 281}
+{"bar_card": "00788666", "full_name": "Ms. Elizabeth Ann Wiley", "cases_count": 1, "all_cases_count": 52}
+{"bar_card": "22277700", "full_name": "Mr. Larry Zinn", "cases_count": 1, "all_cases_count": 177}
+{"bar_card": "00791825", "full_name": "Mr. Michael S. Truesdale", "cases_count": 1, "all_cases_count": 107}
+{"bar_card": "00829950", "full_name": "Mr. Henry J. Ackels", "cases_count": 1, "all_cases_count": 80}

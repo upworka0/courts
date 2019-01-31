@@ -1,0 +1,1 @@
+{"bar_card": "17880500", "full_name": "Mr. Stanley L. 'Stan' Schwieger", "cases_count": 1, "all_cases_count": 624}

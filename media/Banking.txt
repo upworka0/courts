@@ -1,0 +1,4 @@
+{"bar_card": "00787731", "full_name": "Mr. Michael D. Hudgins", "cases_count": 1, "all_cases_count": 88}
+{"bar_card": "00794270", "full_name": "Mr. John Hatchett 'John' McFarland", "cases_count": 1, "all_cases_count": 44}
+{"bar_card": "02277280", "full_name": "Mr. J. W. Beverly", "cases_count": 1, "all_cases_count": 71}
+{"bar_card": "17505700", "full_name": "Mr. David J. Sacks", "cases_count": 1, "all_cases_count": 68}

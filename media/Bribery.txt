@@ -1,0 +1,6 @@
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 1, "all_cases_count": 307}
+{"bar_card": "06196400", "full_name": "Mr. Richard Brooks Dulany Jr.", "cases_count": 1, "all_cases_count": 149}
+{"bar_card": "08101000", "full_name": "Mr. Gerald Harris 'Gerry' Goldstein", "cases_count": 1, "all_cases_count": 54}
+{"bar_card": "15313350", "full_name": "Ms. Cynthia Eva Hujar 'Cynthia' Orr", "cases_count": 1, "all_cases_count": 88}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "24055462", "full_name": "Mr. Gregory Alan 'Greg' Eyster", "cases_count": 1, "all_cases_count": 57}

@@ -1,0 +1,6 @@
+{"bar_card": "00797826", "full_name": "Ms. Nicole Rahel Fellows", "cases_count": 2, "all_cases_count": 89}
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 1, "all_cases_count": 527}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 1, "all_cases_count": 609}
+{"bar_card": "06768725", "full_name": "Mr. Cary Marshall Faden", "cases_count": 1, "all_cases_count": 337}
+{"bar_card": "21566200", "full_name": "Ms. Nelda F. Williams", "cases_count": 1, "all_cases_count": 127}
+{"bar_card": "24002739", "full_name": "Mr. Scott Howard 'Scott' Pawgan", "cases_count": 1, "all_cases_count": 154}

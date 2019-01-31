@@ -1,0 +1,7 @@
+{"bar_card": "00785492", "full_name": "Mr. Gonzalo P. Rios Jr.", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "01782120", "full_name": "Mr. J. Rex 'Rex' Barnett", "cases_count": 1, "all_cases_count": 184}
+{"bar_card": "05227500", "full_name": "Ms. Patricia Jean Cummings", "cases_count": 1, "all_cases_count": 95}
+{"bar_card": "12555900", "full_name": "Mr. Paul  C. Looney", "cases_count": 1, "all_cases_count": 110}
+{"bar_card": "17136525", "full_name": "Ms. Judy Rodgers Hodgkiss", "cases_count": 1, "all_cases_count": 135}
+{"bar_card": "17880500", "full_name": "Mr. Stanley L. 'Stan' Schwieger", "cases_count": 1, "all_cases_count": 624}
+{"bar_card": "24025328", "full_name": "Mr. Christopher Matthew Dillon", "cases_count": 1, "all_cases_count": 121}

@@ -1,0 +1,1 @@
+{"bar_card": "18858000", "full_name": "Mr. Luther H. 'Luke' Soules III", "cases_count": 1, "all_cases_count": 165}

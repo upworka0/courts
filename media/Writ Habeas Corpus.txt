@@ -1,0 +1,2 @@
+{"bar_card": "00798601", "full_name": "Ms. Kristy Layne Wright", "cases_count": 2, "all_cases_count": 216}
+{"bar_card": "07149500", "full_name": "Mr. James Calvin 'jim' Fling", "cases_count": 1, "all_cases_count": 87}

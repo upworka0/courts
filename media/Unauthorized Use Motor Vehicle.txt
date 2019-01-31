@@ -1,0 +1,2 @@
+{"bar_card": "00797826", "full_name": "Ms. Nicole Rahel Fellows", "cases_count": 1, "all_cases_count": 89}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 1, "all_cases_count": 776}

@@ -1,0 +1,4 @@
+{"bar_card": "01797100", "full_name": "Ms. Pamela Stanton Baron", "cases_count": 1, "all_cases_count": 125}
+{"bar_card": "03826100", "full_name": "Mr. Jack Gardiner Carnegie", "cases_count": 1, "all_cases_count": 87}
+{"bar_card": "14765380", "full_name": "Mr. Robert John 'Rob' Myers", "cases_count": 1, "all_cases_count": 85}
+{"bar_card": "16175300", "full_name": "Mr. Harry Grant Potter III", "cases_count": 1, "all_cases_count": 31}

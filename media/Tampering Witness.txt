@@ -1,0 +1,11 @@
+{"bar_card": "06768725", "full_name": "Mr. Cary Marshall Faden", "cases_count": 2, "all_cases_count": 337}
+{"bar_card": "16460150", "full_name": "Mr. Christopher David Raesz", "cases_count": 2, "all_cases_count": 81}
+{"bar_card": "24074812", "full_name": "Mr. Jason Edward Niehaus", "cases_count": 2, "all_cases_count": 101}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 353}
+{"bar_card": "00790919", "full_name": "Mr. Troy Alan Hornsby", "cases_count": 1, "all_cases_count": 306}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 1, "all_cases_count": 776}
+{"bar_card": "17880500", "full_name": "Mr. Stanley L. 'Stan' Schwieger", "cases_count": 1, "all_cases_count": 624}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 1, "all_cases_count": 612}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 685}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 1, "all_cases_count": 609}
+{"bar_card": "04457300", "full_name": "Mr. Winston Earle Cochran Jr.", "cases_count": 1, "all_cases_count": 701}

@@ -1,0 +1,17 @@
+{"bar_card": "12095275", "full_name": "Mr. Thomas S. 'Tom' Leatherbury", "cases_count": 2, "all_cases_count": 102}
+{"bar_card": "00787674", "full_name": "Mr. James Alan Hemphill", "cases_count": 2, "all_cases_count": 93}
+{"bar_card": "24026905", "full_name": "Ms. Lisa  Erin 'Lisa' Hobbs", "cases_count": 2, "all_cases_count": 117}
+{"bar_card": "01160300", "full_name": "Ms. Jessie Alliene Amos", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "09590800", "full_name": "Mr. Robert William Higgason", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "09965450", "full_name": "Mr. Timothy Andrew 'Tim' Hootman", "cases_count": 1, "all_cases_count": 323}
+{"bar_card": "10605500", "full_name": "Mr. Charles M. Jefferson", "cases_count": 1, "all_cases_count": 50}
+{"bar_card": "14740500", "full_name": "Mr. Thomas V. 'Tom' Murto III", "cases_count": 1, "all_cases_count": 93}
+{"bar_card": "16669900", "full_name": "Mr. John Frederick 'Eric' Redwine", "cases_count": 1, "all_cases_count": 9}
+{"bar_card": "22100350", "full_name": "Ms. Penny Wymyczak-White", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "24031980", "full_name": "Mr. Sean Reed Cox", "cases_count": 1, "all_cases_count": 31}
+{"bar_card": "24032273", "full_name": "Ms. Kendyl Taylor Hanks", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 1, "all_cases_count": 1406}
+{"bar_card": "24040744", "full_name": "Mr. Don Wayne Cruse Jr.", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "00793461", "full_name": "Ms. Maria T Cantu Hexsel", "cases_count": 1, "all_cases_count": 24}
+{"bar_card": "00794264", "full_name": "Ms. Marnie Ann McCormick", "cases_count": 1, "all_cases_count": 92}

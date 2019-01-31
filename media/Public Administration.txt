@@ -1,0 +1,2 @@
+{"bar_card": "24090464", "full_name": "Andrew Augustus Whitlock III", "cases_count": 2, "all_cases_count": 9}
+{"bar_card": "06117800", "full_name": "Ms. Katherine A. 'Kathi' Drew", "cases_count": 1, "all_cases_count": 944}

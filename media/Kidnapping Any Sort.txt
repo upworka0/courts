@@ -1,0 +1,4 @@
+{"bar_card": "08716800", "full_name": "Mr. Theodore C. 'ted' Hake", "cases_count": 3, "all_cases_count": 540}
+{"bar_card": "00784255", "full_name": "Ms. Amy A. Holley Hennessee", "cases_count": 1, "all_cases_count": 2}
+{"bar_card": "04705400", "full_name": "Mr. Joseph A. Connors III", "cases_count": 1, "all_cases_count": 335}
+{"bar_card": "21193250", "full_name": "Mr. Jerome William 'Jerry' Wesevich", "cases_count": 1, "all_cases_count": 10}

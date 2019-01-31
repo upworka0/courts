@@ -1,0 +1,1 @@
+{"bar_card": "00791058", "full_name": "Mr. Lance A. Kutnick", "cases_count": 3, "all_cases_count": 28}

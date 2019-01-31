@@ -1,0 +1,10 @@
+{"bar_card": "06662300", "full_name": "Mr. David A. Escamilla", "cases_count": 4, "all_cases_count": 308}
+{"bar_card": "00797589", "full_name": "Mr. Enrico Baltazar 'Rico' Valdez", "cases_count": 3, "all_cases_count": 426}
+{"bar_card": "24069083", "full_name": "Carly Neda 'Carly Dessauer' Dessauer", "cases_count": 2, "all_cases_count": 95}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}
+{"bar_card": "21236300", "full_name": "Mr. Richard E. Wetzel", "cases_count": 1, "all_cases_count": 334}
+{"bar_card": "24008614", "full_name": "Ms. Melissa D. Waden", "cases_count": 1, "all_cases_count": 36}
+{"bar_card": "24068071", "full_name": "Mr. Gabriel Caleb Price", "cases_count": 1, "all_cases_count": 390}
+{"bar_card": "18191660", "full_name": "Mr. Jeffrey William 'Jeff Shell' Shell", "cases_count": 1, "all_cases_count": 95}
+{"bar_card": "06625280", "full_name": "Mr. James Michael 'Jim' English", "cases_count": 1, "all_cases_count": 73}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 1, "all_cases_count": 393}

@@ -1,0 +1,7 @@
+{"bar_card": "00796507", "full_name": "Mr. Stephen Bender Edmundson", "cases_count": 1, "all_cases_count": 9}
+{"bar_card": "03239100", "full_name": "Ms. Jennifer Bruch Hogan", "cases_count": 1, "all_cases_count": 312}
+{"bar_card": "09802010", "full_name": "Mr. Richard P. Hogan Jr.", "cases_count": 1, "all_cases_count": 320}
+{"bar_card": "24007877", "full_name": "Mr. Stephen Douglas 'Doug' Pritchett Jr.", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "24008614", "full_name": "Ms. Melissa D. Waden", "cases_count": 1, "all_cases_count": 36}
+{"bar_card": "24012685", "full_name": "Mr. Jeremy Jason Gaston", "cases_count": 1, "all_cases_count": 36}
+{"bar_card": "24085619", "full_name": "Aaron Benjamin Tilley", "cases_count": 1, "all_cases_count": 2}

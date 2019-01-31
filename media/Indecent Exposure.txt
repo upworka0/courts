@@ -1,0 +1,22 @@
+{"bar_card": "06662300", "full_name": "Mr. David A. Escamilla", "cases_count": 3, "all_cases_count": 308}
+{"bar_card": "00787813", "full_name": "Mr. Kevin P. Keating", "cases_count": 3, "all_cases_count": 313}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 2, "all_cases_count": 612}
+{"bar_card": "24050279", "full_name": "Ms. Riann Christine Moore", "cases_count": 2, "all_cases_count": 316}
+{"bar_card": "17646450", "full_name": "Mr. Renato Santos Jr.", "cases_count": 2, "all_cases_count": 135}
+{"bar_card": "00798601", "full_name": "Ms. Kristy Layne Wright", "cases_count": 1, "all_cases_count": 216}
+{"bar_card": "06855600", "full_name": "Ms. Helena Foret Faulkner", "cases_count": 1, "all_cases_count": 197}
+{"bar_card": "08716800", "full_name": "Mr. Theodore C. 'ted' Hake", "cases_count": 1, "all_cases_count": 540}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 1, "all_cases_count": 430}
+{"bar_card": "10592300", "full_name": "Mr. John G. Jasuta", "cases_count": 1, "all_cases_count": 201}
+{"bar_card": "13922100", "full_name": "Ms. Beverly Daphene Melontree", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "15313350", "full_name": "Ms. Cynthia Eva Hujar 'Cynthia' Orr", "cases_count": 1, "all_cases_count": 88}
+{"bar_card": "16984600", "full_name": "Mr. Michael David Robbins", "cases_count": 1, "all_cases_count": 560}
+{"bar_card": "18078300", "full_name": "Mr. Kollin Shadle", "cases_count": 1, "all_cases_count": 411}
+{"bar_card": "21566200", "full_name": "Ms. Nelda F. Williams", "cases_count": 1, "all_cases_count": 127}
+{"bar_card": "24037591", "full_name": "Ms. Rosa Theofanis", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "24055561", "full_name": "Ms. Mandy Goldman Miller", "cases_count": 1, "all_cases_count": 223}
+{"bar_card": "24069359", "full_name": "Mr. Alex Johnathan Bell", "cases_count": 1, "all_cases_count": 392}
+{"bar_card": "00789966", "full_name": "Ms. M. Michele Greene", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "00790650", "full_name": "Mr. Joseph Adrian Esparza", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "00790919", "full_name": "Mr. Troy Alan Hornsby", "cases_count": 1, "all_cases_count": 306}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 756}

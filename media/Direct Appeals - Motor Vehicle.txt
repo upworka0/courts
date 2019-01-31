@@ -1,0 +1,6 @@
+{"bar_card": "14740500", "full_name": "Mr. Thomas V. 'Tom' Murto III", "cases_count": 4, "all_cases_count": 93}
+{"bar_card": "00874010", "full_name": "Mr. N. Terry 'Terry' Adams Jr.", "cases_count": 3, "all_cases_count": 167}
+{"bar_card": "00787440", "full_name": "Mr. Benjamin A. Escobar Jr.", "cases_count": 2, "all_cases_count": 23}
+{"bar_card": "00794264", "full_name": "Ms. Marnie Ann McCormick", "cases_count": 1, "all_cases_count": 92}
+{"bar_card": "00795708", "full_name": "Ms. Amy Warr", "cases_count": 1, "all_cases_count": 119}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}

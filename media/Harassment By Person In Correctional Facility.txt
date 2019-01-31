@@ -1,0 +1,14 @@
+{"bar_card": "24045860", "full_name": "Mr. Michael Staats Falkenberg", "cases_count": 3, "all_cases_count": 17}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 1, "all_cases_count": 1625}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 118}
+{"bar_card": "05630480", "full_name": "Ms. Katharine Kalinke 'Kathy' Decker", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "06117800", "full_name": "Ms. Katherine A. 'Kathi' Drew", "cases_count": 1, "all_cases_count": 944}
+{"bar_card": "06768500", "full_name": "Mr. Abe Factor", "cases_count": 1, "all_cases_count": 895}
+{"bar_card": "09887175", "full_name": "Ms. Mary Jo Holloway", "cases_count": 1, "all_cases_count": 59}
+{"bar_card": "18913500", "full_name": "Mr. Joseph Wilson Spence", "cases_count": 1, "all_cases_count": 963}
+{"bar_card": "21566200", "full_name": "Ms. Nelda F. Williams", "cases_count": 1, "all_cases_count": 127}
+{"bar_card": "24069359", "full_name": "Mr. Alex Johnathan Bell", "cases_count": 1, "all_cases_count": 392}
+{"bar_card": "24069976", "full_name": "Mr. Jeff Taylor Jackson", "cases_count": 1, "all_cases_count": 31}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "24085685", "full_name": "Adam Logan Arrington", "cases_count": 1, "all_cases_count": 26}

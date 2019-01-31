@@ -1,0 +1,1 @@
+{"bar_card": "24012401", "full_name": "Ms. Daphne Lynette Session", "cases_count": 1, "all_cases_count": 29}

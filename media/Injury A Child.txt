@@ -1,0 +1,9 @@
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 4, "all_cases_count": 527}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 3, "all_cases_count": 761}
+{"bar_card": "04431900", "full_name": "Mr. Bruce Wayne 'Bruce' Cobb", "cases_count": 1, "all_cases_count": 193}
+{"bar_card": "05227500", "full_name": "Ms. Patricia Jean Cummings", "cases_count": 1, "all_cases_count": 95}
+{"bar_card": "06096050", "full_name": "Mr. Peter F. Doyle Jr.", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "07866000", "full_name": "Mr. J. Stephen 'Stephen Gibson' Gibson", "cases_count": 1, "all_cases_count": 118}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 353}
+{"bar_card": "08880500", "full_name": "Mr. Clinard J. 'Buddy' Hanby", "cases_count": 1, "all_cases_count": 194}
+{"bar_card": "01738480", "full_name": "Mr. Bobby Dale Barina", "cases_count": 1, "all_cases_count": 208}

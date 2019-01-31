@@ -1,0 +1,6 @@
+{"bar_card": "06768500", "full_name": "Mr. Abe Factor", "cases_count": 2, "all_cases_count": 895}
+{"bar_card": "24062749", "full_name": "Mr. William Joseph 'Joe' Gonyea Jr.", "cases_count": 2, "all_cases_count": 29}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 1, "all_cases_count": 1924}
+{"bar_card": "00788692", "full_name": "Ms. Debra Ann Windsor", "cases_count": 1, "all_cases_count": 1008}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 1, "all_cases_count": 609}
+{"bar_card": "24001800", "full_name": "Mr. Marc Alden Brumberger", "cases_count": 1, "all_cases_count": 89}

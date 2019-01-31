@@ -1,0 +1,3 @@
+{"bar_card": "08240320", "full_name": "Mr. Jerald Kaplan Graber", "cases_count": 1, "all_cases_count": 263}
+{"bar_card": "09887175", "full_name": "Ms. Mary Jo Holloway", "cases_count": 1, "all_cases_count": 59}
+{"bar_card": "15861300", "full_name": "Mr. Douglas H. 'Doug' Pettit", "cases_count": 1, "all_cases_count": 126}

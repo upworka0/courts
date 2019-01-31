@@ -1,0 +1,3 @@
+{"bar_card": "01552000", "full_name": "Mr. William J. 'Bill' Baine", "cases_count": 1, "all_cases_count": 102}
+{"bar_card": "08193000", "full_name": "Mr. Ronald Leroy Goranson", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 353}

@@ -1,0 +1,5 @@
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 2, "all_cases_count": 527}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 2, "all_cases_count": 761}
+{"bar_card": "16460150", "full_name": "Mr. Christopher David Raesz", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "19466300", "full_name": "Mr. Frank B. Suhr", "cases_count": 1, "all_cases_count": 67}
+{"bar_card": "24073674", "full_name": "Ms. Megan Wren Chalifoux", "cases_count": 1, "all_cases_count": 29}

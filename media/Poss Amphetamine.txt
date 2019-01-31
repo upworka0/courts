@@ -1,0 +1,2 @@
+{"bar_card": "00792999", "full_name": "Mr. Todd Steven Dudley", "cases_count": 1, "all_cases_count": 62}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 530}

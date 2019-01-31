@@ -1,0 +1,1 @@
+{"bar_card": "12830050", "full_name": "Mr. Kenneth G. 'Ken' Mahaffey", "cases_count": 1, "all_cases_count": 230}

@@ -1,0 +1,12 @@
+{"bar_card": "17316750", "full_name": "Mr. Scott Rothenberg", "cases_count": 3, "all_cases_count": 226}
+{"bar_card": "03319970", "full_name": "Ms. Catherine Bukowski 'Cathy' Smith", "cases_count": 1, "all_cases_count": 171}
+{"bar_card": "10059550", "full_name": "Mr. Samuel A. Houston", "cases_count": 1, "all_cases_count": 70}
+{"bar_card": "12437100", "full_name": "Mr. Keith Clark Livesay", "cases_count": 1, "all_cases_count": 346}
+{"bar_card": "12816200", "full_name": "Mr. Alan Neil Magenheim", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "13448300", "full_name": "Mr. Robert Patrick 'bob' McConnell", "cases_count": 1, "all_cases_count": 69}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 169}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 1, "all_cases_count": 225}
+{"bar_card": "20190650", "full_name": "Mr. Mack J. Travers", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "20579310", "full_name": "Mr. George William Vie III", "cases_count": 1, "all_cases_count": 319}
+{"bar_card": "00787731", "full_name": "Mr. Michael D. Hudgins", "cases_count": 1, "all_cases_count": 88}
+{"bar_card": "24041274", "full_name": "Ms. Dori Kornfeld Goldman", "cases_count": 1, "all_cases_count": 18}

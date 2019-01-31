@@ -1,0 +1,3 @@
+{"bar_card": "00796744", "full_name": "Mr. James Stuart 'Jim' Hering", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "02050700", "full_name": "Mr. Eric G. Behrens", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "24037129", "full_name": "Mr. Kristofer S Monson", "cases_count": 1, "all_cases_count": 140}

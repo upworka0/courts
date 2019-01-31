@@ -1,0 +1,6 @@
+{"bar_card": "24069359", "full_name": "Mr. Alex Johnathan Bell", "cases_count": 2, "all_cases_count": 392}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 1, "all_cases_count": 609}
+{"bar_card": "12830050", "full_name": "Mr. Kenneth G. 'Ken' Mahaffey", "cases_count": 1, "all_cases_count": 230}
+{"bar_card": "16984600", "full_name": "Mr. Michael David Robbins", "cases_count": 1, "all_cases_count": 560}
+{"bar_card": "24056166", "full_name": "Mr. Gary Emil Prust", "cases_count": 1, "all_cases_count": 97}
+{"bar_card": "24077351", "full_name": "Eric Ryan Erlandson", "cases_count": 1, "all_cases_count": 12}

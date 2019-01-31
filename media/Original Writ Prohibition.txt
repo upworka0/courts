@@ -1,0 +1,13 @@
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 6, "all_cases_count": 353}
+{"bar_card": "24055561", "full_name": "Ms. Mandy Goldman Miller", "cases_count": 4, "all_cases_count": 223}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 4, "all_cases_count": 470}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 2, "all_cases_count": 1415}
+{"bar_card": "10592300", "full_name": "Mr. John G. Jasuta", "cases_count": 2, "all_cases_count": 201}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 2, "all_cases_count": 1625}
+{"bar_card": "24049081", "full_name": "Mr. David Christopher 'Chris' Hesse", "cases_count": 2, "all_cases_count": 18}
+{"bar_card": "01643100", "full_name": "Mr. Wessley T. 'Wes' Ball", "cases_count": 2, "all_cases_count": 208}
+{"bar_card": "24089245", "full_name": "Ms. Ashley Rae Steele", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "02216575", "full_name": "Ms. Catherine Clare Bernhard", "cases_count": 1, "all_cases_count": 102}
+{"bar_card": "24048680", "full_name": "Mr. Michael Mowla", "cases_count": 1, "all_cases_count": 283}
+{"bar_card": "24077192", "full_name": "Paul Matthew Morgan", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}

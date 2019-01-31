@@ -1,0 +1,5 @@
+{"bar_card": "00788253", "full_name": "Ms. Macey Reasoner 'Macey' Stokes", "cases_count": 1, "all_cases_count": 135}
+{"bar_card": "03607200", "full_name": "Mr. Robert Thomas Cain Jr.", "cases_count": 1, "all_cases_count": 146}
+{"bar_card": "17136525", "full_name": "Ms. Judy Rodgers Hodgkiss", "cases_count": 1, "all_cases_count": 135}
+{"bar_card": "24031778", "full_name": "Justice Justin Brett 'Brett' Busby", "cases_count": 1, "all_cases_count": 55}
+{"bar_card": "24059921", "full_name": "Mr. Michael Andrew 'Mike' Heidler", "cases_count": 1, "all_cases_count": 32}

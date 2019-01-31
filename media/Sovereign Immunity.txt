@@ -1,0 +1,4 @@
+{"bar_card": "00785767", "full_name": "Mr. Eugene Antone Clayborn", "cases_count": 1, "all_cases_count": 76}
+{"bar_card": "02495500", "full_name": "Ms. Elizabeth G. 'Heidi' Bloch", "cases_count": 1, "all_cases_count": 199}
+{"bar_card": "11058030", "full_name": "Mr. Frederick D. 'Fred' Junkin", "cases_count": 1, "all_cases_count": 72}
+{"bar_card": "20070500", "full_name": "Mr. Stephen G. Tipps", "cases_count": 1, "all_cases_count": 162}

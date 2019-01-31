@@ -1,0 +1,3 @@
+{"bar_card": "13610650", "full_name": "Mr. Charles W. McGarry", "cases_count": 2, "all_cases_count": 284}
+{"bar_card": "04536600", "full_name": "Ms. Christine 'Christine Biederman' Cole-Biederman", "cases_count": 1, "all_cases_count": 4}
+{"bar_card": "19550620", "full_name": "Mr. Dean M. Swanda", "cases_count": 1, "all_cases_count": 310}

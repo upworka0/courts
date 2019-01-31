@@ -1,0 +1,1 @@
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 2, "all_cases_count": 393}

@@ -1,0 +1,4 @@
+{"bar_card": "00792259", "full_name": "Ms. Kamilla Lane Stokes", "cases_count": 1, "all_cases_count": 30}
+{"bar_card": "00795708", "full_name": "Ms. Amy Warr", "cases_count": 1, "all_cases_count": 119}
+{"bar_card": "06667700", "full_name": "Mr. Ronald Keith Esposito", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "24006979", "full_name": "William Lance Cawthon", "cases_count": 1, "all_cases_count": 50}

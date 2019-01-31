@@ -1,0 +1,4 @@
+{"bar_card": "01970000", "full_name": "Mr. Alexander  N. 'Alex' Beard", "cases_count": 1, "all_cases_count": 107}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 1, "all_cases_count": 117}
+{"bar_card": "16215500", "full_name": "Mr. Bruce Stephen Powers", "cases_count": 1, "all_cases_count": 100}
+{"bar_card": "19857250", "full_name": "Ms. Larriet Elaine Thomas", "cases_count": 1, "all_cases_count": 5}

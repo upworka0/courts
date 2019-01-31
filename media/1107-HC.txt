@@ -1,0 +1,19 @@
+{"bar_card": "05770585", "full_name": "Ms. Elizabeth  L. Derieux", "cases_count": 23, "all_cases_count": 62}
+{"bar_card": "13153000", "full_name": "Mr. Edgar Adams Mason", "cases_count": 7, "all_cases_count": 88}
+{"bar_card": "08085700", "full_name": "Mr. Thomas Kevin 'Kevin' Golden", "cases_count": 6, "all_cases_count": 19}
+{"bar_card": "15167000", "full_name": "Mr. Douglas M. 'Doug' O'Brien", "cases_count": 4, "all_cases_count": 276}
+{"bar_card": "04705400", "full_name": "Mr. Joseph A. Connors III", "cases_count": 4, "all_cases_count": 335}
+{"bar_card": "00788600", "full_name": "Mr. Darrin Mitchell Walker", "cases_count": 2, "all_cases_count": 272}
+{"bar_card": "02916300", "full_name": "Mr. William A. Bratton III", "cases_count": 2, "all_cases_count": 119}
+{"bar_card": "12305500", "full_name": "Mr. Ronald Henry Lewis", "cases_count": 2, "all_cases_count": 6}
+{"bar_card": "22266500", "full_name": "Mr. Jack B. Zimmermann", "cases_count": 2, "all_cases_count": 46}
+{"bar_card": "11572040", "full_name": "Mr. Joseph W. Kline", "cases_count": 1, "all_cases_count": 60}
+{"bar_card": "20301700", "full_name": "Mr. Richard Ellis 'Richard' Turkel", "cases_count": 1, "all_cases_count": 23}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 1, "all_cases_count": 221}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 1, "all_cases_count": 776}
+{"bar_card": "01488000", "full_name": "Ms. Shirley Baccus-Lobel", "cases_count": 1, "all_cases_count": 11}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 470}
+{"bar_card": "18001850", "full_name": "Mr. Edwin J. 'Ed' Seilheimer", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "20138000", "full_name": "Mr. Edward S. Topek", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "07539400", "full_name": "Mr. Donald T. Fulton", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "08101000", "full_name": "Mr. Gerald Harris 'Gerry' Goldstein", "cases_count": 1, "all_cases_count": 54}

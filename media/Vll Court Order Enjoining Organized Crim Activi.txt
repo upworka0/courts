@@ -1,0 +1,1 @@
+{"bar_card": "24083252", "full_name": "Carey Colin Jensen", "cases_count": 1, "all_cases_count": 101}

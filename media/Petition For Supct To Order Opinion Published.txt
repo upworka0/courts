@@ -1,0 +1,3 @@
+{"bar_card": "00850600", "full_name": "Mr. Carl David Adams", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "07866000", "full_name": "Mr. J. Stephen 'Stephen Gibson' Gibson", "cases_count": 1, "all_cases_count": 118}
+{"bar_card": "09628400", "full_name": "Mr. Donald W. Hill", "cases_count": 1, "all_cases_count": 14}

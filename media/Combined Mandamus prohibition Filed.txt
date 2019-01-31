@@ -1,0 +1,8 @@
+{"bar_card": "24007633", "full_name": "Mr. Shawn Malcolm McCaskill", "cases_count": 2, "all_cases_count": 86}
+{"bar_card": "09219000", "full_name": "Mr. Michael A. 'Mike' Hatchell", "cases_count": 2, "all_cases_count": 489}
+{"bar_card": "03239100", "full_name": "Ms. Jennifer Bruch Hogan", "cases_count": 1, "all_cases_count": 312}
+{"bar_card": "06502455", "full_name": "Ms. Elana S. Einhorn", "cases_count": 1, "all_cases_count": 54}
+{"bar_card": "09802010", "full_name": "Mr. Richard P. Hogan Jr.", "cases_count": 1, "all_cases_count": 320}
+{"bar_card": "00784591", "full_name": "Mr. Randall Lewis Meredith", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "24032626", "full_name": "Ms. Susan Allison Kidwell", "cases_count": 1, "all_cases_count": 99}
+{"bar_card": "00794814", "full_name": "Mr. Eric Gordon Walraven", "cases_count": 1, "all_cases_count": 102}

@@ -1,0 +1,4 @@
+{"bar_card": "00795301", "full_name": "Mr. Clay S. 'Clay' Conrad", "cases_count": 2, "all_cases_count": 75}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 1, "all_cases_count": 393}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "24037591", "full_name": "Ms. Rosa Theofanis", "cases_count": 1, "all_cases_count": 86}

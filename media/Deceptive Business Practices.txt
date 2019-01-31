@@ -1,0 +1,3 @@
+{"bar_card": "24045938", "full_name": "Mr. Stuart Andrew 'Drew' Gibbs", "cases_count": 2, "all_cases_count": 7}
+{"bar_card": "09965450", "full_name": "Mr. Timothy Andrew 'Tim' Hootman", "cases_count": 1, "all_cases_count": 323}
+{"bar_card": "24062846", "full_name": "Ms. Veronica Teresa Lerma", "cases_count": 1, "all_cases_count": 43}

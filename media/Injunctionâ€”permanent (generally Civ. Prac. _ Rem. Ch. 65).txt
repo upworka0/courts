@@ -1,0 +1,2 @@
+{"bar_card": "04688650", "full_name": "Mr. Michael D. 'Mike' Conner", "cases_count": 1, "all_cases_count": 180}
+{"bar_card": "24001866", "full_name": "Ms. Jacquelyn Ann 'Jackie' Chandler", "cases_count": 1, "all_cases_count": 65}

@@ -1,0 +1,8 @@
+{"bar_card": "00793302", "full_name": "Mr. James Hans Barcus", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "05974800", "full_name": "Mr. Mark Donheiser", "cases_count": 1, "all_cases_count": 132}
+{"bar_card": "07474700", "full_name": "Ms. Gail N. Friend", "cases_count": 1, "all_cases_count": 94}
+{"bar_card": "13947200", "full_name": "Mr. John R. Mercy", "cases_count": 1, "all_cases_count": 262}
+{"bar_card": "14580100", "full_name": "Mr. Michael D. 'Mike' Mosher", "cases_count": 1, "all_cases_count": 80}
+{"bar_card": "18404700", "full_name": "Mr. Reagan  W. Simpson", "cases_count": 1, "all_cases_count": 246}
+{"bar_card": "19456800", "full_name": "Mr. Lorin M. Subar", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "21392000", "full_name": "Mr. Michael J. 'Mike' Whitten", "cases_count": 1, "all_cases_count": 52}

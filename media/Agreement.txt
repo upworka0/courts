@@ -1,0 +1,6 @@
+{"bar_card": "10059550", "full_name": "Mr. Samuel A. Houston", "cases_count": 2, "all_cases_count": 70}
+{"bar_card": "00787396", "full_name": "Mr. Robert B. Dubose", "cases_count": 1, "all_cases_count": 88}
+{"bar_card": "09529400", "full_name": "Ms. Rande K. Herrell", "cases_count": 1, "all_cases_count": 566}
+{"bar_card": "18562620", "full_name": "Ms. Deanna Dean 'Deanna' Lovett", "cases_count": 1, "all_cases_count": 72}
+{"bar_card": "18838700", "full_name": "Ms. M. Joy 'Joy M. Soloway' Soloway", "cases_count": 1, "all_cases_count": 169}
+{"bar_card": "24012766", "full_name": "Ms. Laura Lee Haley", "cases_count": 1, "all_cases_count": 16}

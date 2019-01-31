@@ -1,0 +1,11 @@
+{"bar_card": "04705400", "full_name": "Mr. Joseph A. Connors III", "cases_count": 2, "all_cases_count": 335}
+{"bar_card": "24098163", "full_name": "Heather Erin Myers", "cases_count": 2, "all_cases_count": 3}
+{"bar_card": "06157500", "full_name": "Mr. Claude E. Ducloux", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "08193000", "full_name": "Mr. Ronald Leroy Goranson", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "00794264", "full_name": "Ms. Marnie Ann McCormick", "cases_count": 1, "all_cases_count": 92}
+{"bar_card": "12961600", "full_name": "Mr. Vincent Lee 'Tripp' Marable III", "cases_count": 1, "all_cases_count": 272}
+{"bar_card": "13610650", "full_name": "Mr. Charles W. McGarry", "cases_count": 1, "all_cases_count": 284}
+{"bar_card": "18496100", "full_name": "Mr. Ken K. Slavin", "cases_count": 1, "all_cases_count": 267}
+{"bar_card": "20871500", "full_name": "Mr. Larry Logan 'LARRY' Warner Sr.", "cases_count": 1, "all_cases_count": 361}
+{"bar_card": "09628400", "full_name": "Mr. Donald W. Hill", "cases_count": 1, "all_cases_count": 14}
+{"bar_card": "05655566", "full_name": "Mr. Denis Dennis", "cases_count": 1, "all_cases_count": 60}

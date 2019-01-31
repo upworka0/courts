@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% load extra_filters %}
+
+{% block head_title %} Cases Types || {{ block.super }} {% endblock head_title %}
+
+{% block content %}
+    <div class="container" style="text-align: center">
+
+    <h1>Select a Case Type from the following:</h1>
+    <br>
+
+    <div class="row">
+    <div class="col-8 mr-auto" style="margin: 0 auto;">
+    <form class="form-inline">
+        <input class="form-control" placeholder="Case Type" name="case_type" value="{{ request.GET.case_type }}">
+        <input type="submit" value="Search" class="btn btn-primary">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="checkbox" name="group" {% if group %}checked{% endif %}>
+        <label style="font-weight: bold; font-size: 18px;">&nbsp;&nbsp;Do you want to combine the results?</label>
+    </form>
+    </div>
+    </div>
+    <br>
+
+
+    <div class="container cases-types-table" style="height: 400px;overflow: auto;">
+    <table class="sortable table table-hover table-bordered" >
+        <thead>
+            <th>Case Type</th>
+        </thead>
+
+        <tbody>
+        {% if group %}
+            <td><a href="/lawyers_list/?case_type={{ cases }}&group={{ case }}"><strong> {{ case }}</strong></a></td>
+        {% else %}
+        {% for case in cases %}
+        <tr>
+            <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}"><strong> {{ case.case_type }}</strong></a></td>
+        </tr>
+        {% endfor %}
+        {% endif %}
+        </tbody>
+    </table>
+
+    </div>
+    </div>
+{% endblock %}

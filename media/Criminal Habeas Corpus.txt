@@ -1,0 +1,5 @@
+{"bar_card": "21752750", "full_name": "Ms. Melissa Jane Winblood", "cases_count": 2, "all_cases_count": 53}
+{"bar_card": "06667500", "full_name": "Mr. Richard D. Esper", "cases_count": 1, "all_cases_count": 23}
+{"bar_card": "14422500", "full_name": "Mr. Alan G. Moravcik", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "21321600", "full_name": "Mr. Ori Tucker White", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "24028186", "full_name": "Ms. Rachel Varughese Morales", "cases_count": 1, "all_cases_count": 21}

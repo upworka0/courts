@@ -1,0 +1,19 @@
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 5, "all_cases_count": 612}
+{"bar_card": "21566200", "full_name": "Ms. Nelda F. Williams", "cases_count": 4, "all_cases_count": 127}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 4, "all_cases_count": 1726}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 3, "all_cases_count": 1924}
+{"bar_card": "06768725", "full_name": "Mr. Cary Marshall Faden", "cases_count": 2, "all_cases_count": 337}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 2, "all_cases_count": 1625}
+{"bar_card": "24068071", "full_name": "Mr. Gabriel Caleb Price", "cases_count": 2, "all_cases_count": 390}
+{"bar_card": "24069359", "full_name": "Mr. Alex Johnathan Bell", "cases_count": 2, "all_cases_count": 392}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 2, "all_cases_count": 1406}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 2, "all_cases_count": 761}
+{"bar_card": "24074812", "full_name": "Mr. Jason Edward Niehaus", "cases_count": 1, "all_cases_count": 101}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 756}
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 1, "all_cases_count": 527}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 1, "all_cases_count": 609}
+{"bar_card": "18913500", "full_name": "Mr. Joseph Wilson Spence", "cases_count": 1, "all_cases_count": 963}
+{"bar_card": "24025819", "full_name": "Mr. Milton Troy 'Troy Bollinger' Bollinger", "cases_count": 1, "all_cases_count": 39}
+{"bar_card": "24043997", "full_name": "Ms. Marcella Paige Williams", "cases_count": 1, "all_cases_count": 76}
+{"bar_card": "24045860", "full_name": "Mr. Michael Staats Falkenberg", "cases_count": 1, "all_cases_count": 17}

@@ -1,0 +1,8 @@
+{"bar_card": "06662300", "full_name": "Mr. David A. Escamilla", "cases_count": 3, "all_cases_count": 308}
+{"bar_card": "24005122", "full_name": "Mr. Alexander B. 'Alex' Wathen", "cases_count": 3, "all_cases_count": 29}
+{"bar_card": "00787538", "full_name": "Mr. Spencer R. Giles", "cases_count": 2, "all_cases_count": 10}
+{"bar_card": "15369200", "full_name": "Mr. John L. '\"Jack\"' Owen", "cases_count": 1, "all_cases_count": 296}
+{"bar_card": "21433100", "full_name": "Mr. Paul Francis Wieneskie", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 1, "all_cases_count": 756}
+{"bar_card": "05557300", "full_name": "Ms. Veronica L. Davis", "cases_count": 1, "all_cases_count": 57}

@@ -1,0 +1,4 @@
+{"bar_card": "00790051", "full_name": "Mr. Jeffrey Robert 'Jeff' Sandberg", "cases_count": 1, "all_cases_count": 89}
+{"bar_card": "03565600", "full_name": "Mr. Daniel H. 'Dan' Byrne", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "10578200", "full_name": "Mr. J. Lee 'Lee Jarrard' Jarrard Jr.", "cases_count": 1, "all_cases_count": 17}
+{"bar_card": "19466300", "full_name": "Mr. Frank B. Suhr", "cases_count": 1, "all_cases_count": 67}

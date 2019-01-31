@@ -1,0 +1,22 @@
+{"bar_card": "02020700", "full_name": "Mr. Elmer C. Beckworth Jr.", "cases_count": 20, "all_cases_count": 176}
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 14, "all_cases_count": 776}
+{"bar_card": "00796240", "full_name": "Mr. Martin Eric Braddy", "cases_count": 10, "all_cases_count": 249}
+{"bar_card": "02438900", "full_name": "Ms. Amy R. Blalock", "cases_count": 7, "all_cases_count": 59}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 4, "all_cases_count": 609}
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 4, "all_cases_count": 527}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 4, "all_cases_count": 470}
+{"bar_card": "00786313", "full_name": "Mr. James Wesley Volberding", "cases_count": 3, "all_cases_count": 175}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 3, "all_cases_count": 761}
+{"bar_card": "11825500", "full_name": "Mr. Jules L. Laird Jr.", "cases_count": 3, "all_cases_count": 133}
+{"bar_card": "06096050", "full_name": "Mr. Peter F. Doyle Jr.", "cases_count": 2, "all_cases_count": 79}
+{"bar_card": "00796044", "full_name": "Ms. Darla McLeroy", "cases_count": 2, "all_cases_count": 15}
+{"bar_card": "06717580", "full_name": "Mr. George Stephen 'Stephen' Evans", "cases_count": 2, "all_cases_count": 86}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 2, "all_cases_count": 353}
+{"bar_card": "08880500", "full_name": "Mr. Clinard J. 'Buddy' Hanby", "cases_count": 1, "all_cases_count": 194}
+{"bar_card": "00785492", "full_name": "Mr. Gonzalo P. Rios Jr.", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "13922100", "full_name": "Ms. Beverly Daphene Melontree", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "05227500", "full_name": "Ms. Patricia Jean Cummings", "cases_count": 1, "all_cases_count": 95}
+{"bar_card": "15313350", "full_name": "Ms. Cynthia Eva Hujar 'Cynthia' Orr", "cases_count": 1, "all_cases_count": 88}
+{"bar_card": "15369200", "full_name": "Mr. John L. '\"Jack\"' Owen", "cases_count": 1, "all_cases_count": 296}
+{"bar_card": "01782120", "full_name": "Mr. J. Rex 'Rex' Barnett", "cases_count": 1, "all_cases_count": 184}
+{"bar_card": "00791117", "full_name": "Mr. Timothy S. Linden", "cases_count": 1, "all_cases_count": 25}

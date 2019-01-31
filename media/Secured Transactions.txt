@@ -1,0 +1,8 @@
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "08390000", "full_name": "Mr. Roger Bruce Greenberg", "cases_count": 1, "all_cases_count": 18}
+{"bar_card": "21050060", "full_name": "Ms. Jane M. N. Webre", "cases_count": 1, "all_cases_count": 281}
+{"bar_card": "24028267", "full_name": "Mr. Daniel 'Danny' David", "cases_count": 1, "all_cases_count": 15}
+{"bar_card": "24037129", "full_name": "Mr. Kristofer S Monson", "cases_count": 1, "all_cases_count": 140}
+{"bar_card": "24046046", "full_name": "Ms. Amy Pharr Hefley", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "24074267", "full_name": "Ms. Meghan Elizabeth Hausler", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "24074269", "full_name": "Mr. Benjamin Allen 'Ben' Geslison", "cases_count": 1, "all_cases_count": 21}

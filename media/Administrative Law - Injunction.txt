@@ -1,0 +1,3 @@
+{"bar_card": "07474700", "full_name": "Ms. Gail N. Friend", "cases_count": 2, "all_cases_count": 94}
+{"bar_card": "09529400", "full_name": "Ms. Rande K. Herrell", "cases_count": 1, "all_cases_count": 566}
+{"bar_card": "11198299", "full_name": "Ms. Mary F. Keller", "cases_count": 1, "all_cases_count": 84}

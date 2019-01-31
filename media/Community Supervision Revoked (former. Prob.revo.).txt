@@ -1,0 +1,9 @@
+{"bar_card": "01738480", "full_name": "Mr. Bobby Dale Barina", "cases_count": 8, "all_cases_count": 208}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 3, "all_cases_count": 470}
+{"bar_card": "00795443", "full_name": "Mr. Timothy Wayne 'Tim' Inman", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "00797589", "full_name": "Mr. Enrico Baltazar 'Rico' Valdez", "cases_count": 1, "all_cases_count": 426}
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 1, "all_cases_count": 527}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 353}
+{"bar_card": "11707550", "full_name": "Ms. Suzanne Marie Kramer", "cases_count": 1, "all_cases_count": 371}
+{"bar_card": "12830050", "full_name": "Mr. Kenneth G. 'Ken' Mahaffey", "cases_count": 1, "all_cases_count": 230}
+{"bar_card": "00785492", "full_name": "Mr. Gonzalo P. Rios Jr.", "cases_count": 1, "all_cases_count": 58}

@@ -1,0 +1,3 @@
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 2, "all_cases_count": 609}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 1, "all_cases_count": 1924}

@@ -1,0 +1,10 @@
+{"bar_card": "08716800", "full_name": "Mr. Theodore C. 'ted' Hake", "cases_count": 3, "all_cases_count": 540}
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 3, "all_cases_count": 527}
+{"bar_card": "11910100", "full_name": "Ms. Libra Joy 'Libby' Lange", "cases_count": 2, "all_cases_count": 104}
+{"bar_card": "15740000", "full_name": "Mr. Oscar J. 'Oscar' Pena", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "16355700", "full_name": "Ms. Marva J. Provo", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 1, "all_cases_count": 761}
+{"bar_card": "00786464", "full_name": "Mr. R. Scott 'Scott' Shearer", "cases_count": 1, "all_cases_count": 108}
+{"bar_card": "24001800", "full_name": "Mr. Marc Alden Brumberger", "cases_count": 1, "all_cases_count": 89}
+{"bar_card": "01720800", "full_name": "Ms. Stephanie L. Stevens", "cases_count": 1, "all_cases_count": 119}
+{"bar_card": "06768500", "full_name": "Mr. Abe Factor", "cases_count": 1, "all_cases_count": 895}

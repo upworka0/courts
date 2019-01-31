@@ -1,0 +1,15 @@
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 13, "all_cases_count": 776}
+{"bar_card": "18532200", "full_name": "Mr. Alwin A. 'Al' Smith", "cases_count": 5, "all_cases_count": 65}
+{"bar_card": "00790919", "full_name": "Mr. Troy Alan Hornsby", "cases_count": 5, "all_cases_count": 306}
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 5, "all_cases_count": 527}
+{"bar_card": "00797826", "full_name": "Ms. Nicole Rahel Fellows", "cases_count": 4, "all_cases_count": 89}
+{"bar_card": "00796240", "full_name": "Mr. Martin Eric Braddy", "cases_count": 2, "all_cases_count": 249}
+{"bar_card": "22266500", "full_name": "Mr. Jack B. Zimmermann", "cases_count": 1, "all_cases_count": 46}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 1, "all_cases_count": 326}
+{"bar_card": "00786464", "full_name": "Mr. R. Scott 'Scott' Shearer", "cases_count": 1, "all_cases_count": 108}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 530}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 353}
+{"bar_card": "09965450", "full_name": "Mr. Timothy Andrew 'Tim' Hootman", "cases_count": 1, "all_cases_count": 323}
+{"bar_card": "14580100", "full_name": "Mr. Michael D. 'Mike' Mosher", "cases_count": 1, "all_cases_count": 80}
+{"bar_card": "17136525", "full_name": "Ms. Judy Rodgers Hodgkiss", "cases_count": 1, "all_cases_count": 135}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 1, "all_cases_count": 536}

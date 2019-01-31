@@ -1,0 +1,2 @@
+{"bar_card": "06662300", "full_name": "Mr. David A. Escamilla", "cases_count": 2, "all_cases_count": 308}
+{"bar_card": "24083252", "full_name": "Carey Colin Jensen", "cases_count": 1, "all_cases_count": 101}

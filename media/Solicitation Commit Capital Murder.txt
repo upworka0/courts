@@ -1,0 +1,16 @@
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 4, "all_cases_count": 1726}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 3, "all_cases_count": 530}
+{"bar_card": "00791565", "full_name": "Mr. John Richard Rolater Jr.", "cases_count": 2, "all_cases_count": 756}
+{"bar_card": "00794227", "full_name": "Mr. Michael Adrian Mark", "cases_count": 1, "all_cases_count": 119}
+{"bar_card": "06768725", "full_name": "Mr. Cary Marshall Faden", "cases_count": 1, "all_cases_count": 337}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 685}
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 1, "all_cases_count": 430}
+{"bar_card": "17880500", "full_name": "Mr. Stanley L. 'Stan' Schwieger", "cases_count": 1, "all_cases_count": 624}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 1, "all_cases_count": 536}
+{"bar_card": "24004685", "full_name": "Ms. Cori Ann 'Cori' Harbour-Valdez", "cases_count": 1, "all_cases_count": 59}
+{"bar_card": "24050854", "full_name": "Ms. Lori Jayne Kaspar", "cases_count": 1, "all_cases_count": 69}
+{"bar_card": "24056935", "full_name": "Mr. Damian Castillo", "cases_count": 1, "all_cases_count": 17}
+{"bar_card": "24067554", "full_name": "Mr. Craig William Cosper", "cases_count": 1, "all_cases_count": 20}
+{"bar_card": "24075150", "full_name": "Mr. Kyle Timothy Therrian", "cases_count": 1, "all_cases_count": 31}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 1, "all_cases_count": 1625}
+{"bar_card": "00788354", "full_name": "Mr. Clint Foster Sare", "cases_count": 1, "all_cases_count": 269}

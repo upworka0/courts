@@ -1,0 +1,1 @@
+{"bar_card": "24031578", "full_name": "Mr. Bryan K. 'BRYAN' Savoy", "cases_count": 1, "all_cases_count": 12}

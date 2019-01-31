@@ -1,0 +1,10 @@
+{"bar_card": "19158600", "full_name": "Mr. Kerwin B. Stephens", "cases_count": 2, "all_cases_count": 81}
+{"bar_card": "01857250", "full_name": "Mr. Russell R. Barton", "cases_count": 1, "all_cases_count": 68}
+{"bar_card": "01970000", "full_name": "Mr. Alexander  N. 'Alex' Beard", "cases_count": 1, "all_cases_count": 107}
+{"bar_card": "02942500", "full_name": "Mr. J. Mark Breeding", "cases_count": 1, "all_cases_count": 51}
+{"bar_card": "03607200", "full_name": "Mr. Robert Thomas Cain Jr.", "cases_count": 1, "all_cases_count": 146}
+{"bar_card": "00794270", "full_name": "Mr. John Hatchett 'John' McFarland", "cases_count": 1, "all_cases_count": 44}
+{"bar_card": "09965450", "full_name": "Mr. Timothy Andrew 'Tim' Hootman", "cases_count": 1, "all_cases_count": 323}
+{"bar_card": "11058030", "full_name": "Mr. Frederick D. 'Fred' Junkin", "cases_count": 1, "all_cases_count": 72}
+{"bar_card": "15109500", "full_name": "Mr. James D. Norvell", "cases_count": 1, "all_cases_count": 17}
+{"bar_card": "04423000", "full_name": "Mr. Richard D. 'I' Coan", "cases_count": 1, "all_cases_count": 30}

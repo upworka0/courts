@@ -1,0 +1,10 @@
+{"bar_card": "00794227", "full_name": "Mr. Michael Adrian Mark", "cases_count": 2, "all_cases_count": 119}
+{"bar_card": "10119000", "full_name": "Mr. Jerry W. Howeth", "cases_count": 2, "all_cases_count": 104}
+{"bar_card": "00788384", "full_name": "Mr. Richard John 'Dickie' Segura Jr.", "cases_count": 2, "all_cases_count": 22}
+{"bar_card": "14763960", "full_name": "Ms. Michelle M. 'Michelle' Montemayor", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "16410350", "full_name": "Justice David E. Puryear", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 1, "all_cases_count": 470}
+{"bar_card": "20541700", "full_name": "Mr. Paul C. Velte IV", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "24003663", "full_name": "Mr. Melroy 'Mel' Koehler", "cases_count": 1, "all_cases_count": 9}
+{"bar_card": "06768500", "full_name": "Mr. Abe Factor", "cases_count": 1, "all_cases_count": 895}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 353}

@@ -1,0 +1,22 @@
+{"bar_card": "09977050", "full_name": "Ms. Kathleen Hopkins 'Kate' Alsina", "cases_count": 2, "all_cases_count": 115}
+{"bar_card": "20579310", "full_name": "Mr. George William Vie III", "cases_count": 2, "all_cases_count": 319}
+{"bar_card": "21633500", "full_name": "Mr. Joseph Rutherford Willie II", "cases_count": 2, "all_cases_count": 342}
+{"bar_card": "16832460", "full_name": "Ms. Lisa Rice 'Lisa Rice Hulsey' Hulsey", "cases_count": 2, "all_cases_count": 55}
+{"bar_card": "17316750", "full_name": "Mr. Scott Rothenberg", "cases_count": 2, "all_cases_count": 226}
+{"bar_card": "20070500", "full_name": "Mr. Stephen G. Tipps", "cases_count": 2, "all_cases_count": 162}
+{"bar_card": "09590800", "full_name": "Mr. Robert William Higgason", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "11035400", "full_name": "Mr. Jeff Joyce", "cases_count": 1, "all_cases_count": 72}
+{"bar_card": "11393410", "full_name": "Mr. Neal David Kieval", "cases_count": 1, "all_cases_count": 65}
+{"bar_card": "11868300", "full_name": "Mr. Michael Lee 'Mike' Landrum", "cases_count": 1, "all_cases_count": 43}
+{"bar_card": "12816200", "full_name": "Mr. Alan Neil Magenheim", "cases_count": 1, "all_cases_count": 98}
+{"bar_card": "15975030", "full_name": "Mr. Paul Wayne Pickering", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "20559350", "full_name": "Mr. Ramon G. 'Ray' Viada III", "cases_count": 1, "all_cases_count": 122}
+{"bar_card": "24002999", "full_name": "Mr. Howard Lynn 'Howard Steele' Steele Jr.", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "24010481", "full_name": "Ms. Allyson Lind Wilkinson", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "00790206", "full_name": "Mr. John Sidney Adcock", "cases_count": 1, "all_cases_count": 84}
+{"bar_card": "24040885", "full_name": "Mr. John Jay Farrell", "cases_count": 1, "all_cases_count": 1}
+{"bar_card": "00793583", "full_name": "Mr. Alan Brandt Daughtry", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "02277280", "full_name": "Mr. J. W. Beverly", "cases_count": 1, "all_cases_count": 71}
+{"bar_card": "03826100", "full_name": "Mr. Jack Gardiner Carnegie", "cases_count": 1, "all_cases_count": 87}
+{"bar_card": "04508500", "full_name": "Justice Murry B. Cohen", "cases_count": 1, "all_cases_count": 106}
+{"bar_card": "09388250", "full_name": "Mr. William Scott 'Bill' Helfand", "cases_count": 1, "all_cases_count": 279}

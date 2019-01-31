@@ -1,0 +1,8 @@
+{"bar_card": "01739050", "full_name": "Mr. Ben A. Baring Jr.", "cases_count": 3, "all_cases_count": 120}
+{"bar_card": "04350090", "full_name": "Mr. Scott Monroe 'Scotty' Clearman", "cases_count": 1, "all_cases_count": 36}
+{"bar_card": "11683150", "full_name": "Mr. Andrew '\"Gator\"' Korn", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "13882700", "full_name": "Ms. Elizabeth Meador Bruman", "cases_count": 1, "all_cases_count": 76}
+{"bar_card": "13913800", "full_name": "Mr. David H. Melasky", "cases_count": 1, "all_cases_count": 35}
+{"bar_card": "14839200", "full_name": "Mr. Mark H. Neal", "cases_count": 1, "all_cases_count": 10}
+{"bar_card": "00874010", "full_name": "Mr. N. Terry 'Terry' Adams Jr.", "cases_count": 1, "all_cases_count": 167}
+{"bar_card": "21633500", "full_name": "Mr. Joseph Rutherford Willie II", "cases_count": 1, "all_cases_count": 342}

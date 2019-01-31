@@ -1,0 +1,12 @@
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}
+{"bar_card": "00784444", "full_name": "Ms. Michelle  Sorokwasz Lanfear", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "00787564", "full_name": "Mr. Rinaldo J. Gonzalez", "cases_count": 1, "all_cases_count": 13}
+{"bar_card": "00788407", "full_name": "Mr. N. West Short", "cases_count": 1, "all_cases_count": 54}
+{"bar_card": "00796240", "full_name": "Mr. Martin Eric Braddy", "cases_count": 1, "all_cases_count": 249}
+{"bar_card": "09529400", "full_name": "Ms. Rande K. Herrell", "cases_count": 1, "all_cases_count": 566}
+{"bar_card": "09965450", "full_name": "Mr. Timothy Andrew 'Tim' Hootman", "cases_count": 1, "all_cases_count": 323}
+{"bar_card": "21633500", "full_name": "Mr. Joseph Rutherford Willie II", "cases_count": 1, "all_cases_count": 342}
+{"bar_card": "24003122", "full_name": "Mr. Justin McKenzie Waggoner", "cases_count": 1, "all_cases_count": 39}
+{"bar_card": "24062194", "full_name": "Mr. Deterrean Shaunessey Gamble", "cases_count": 1, "all_cases_count": 408}
+{"bar_card": "24065628", "full_name": "Mr. Christopher Lee Lindsey", "cases_count": 1, "all_cases_count": 31}
+{"bar_card": "24088786", "full_name": "Lauren Ashlee Williams", "cases_count": 1, "all_cases_count": 7}

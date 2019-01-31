@@ -1,0 +1,4 @@
+{"bar_card": "16008850", "full_name": "Mr. James A. Pikl", "cases_count": 1, "all_cases_count": 65}
+{"bar_card": "18496100", "full_name": "Mr. Ken K. Slavin", "cases_count": 1, "all_cases_count": 267}
+{"bar_card": "20508300", "full_name": "Ms. Julia E. Vaughan", "cases_count": 1, "all_cases_count": 54}
+{"bar_card": "24002504", "full_name": "Mr. David J. Lumber", "cases_count": 1, "all_cases_count": 58}

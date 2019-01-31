@@ -1,0 +1,2 @@
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 2, "all_cases_count": 609}
+{"bar_card": "01871000", "full_name": "Mr. Robert Thomas 'Bob' Baskett", "cases_count": 1, "all_cases_count": 193}

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block head_title %} {{ cases.0.lawyer.full_name }} Cases || {{ block.super }} {% endblock head_title %}
+{% load extra_filters %}
+
+{% block content %}
+    <h1><a href="/lawyer/{{ cases.0.lawyer.bar_card }}">{{ cases.0.lawyer.full_name }}</a></h1>
+{#    <table class="sortable table table-hover table-bordered table-condensed table-responsive table-sm">#}
+    <div class="table-responsive" style="overflow-y: auto;">
+        <table class="sortable table table-hover table-bordered cases-table">
+            <thead class="jumbotron">
+                <th style="width: 50px !important;">No.</th>
+                <th style="width: 100px !important;">Date Filed</th>
+                <th style="width: 300px !important;">Case Caption</th>
+                <th>Court Case Number</th>
+                <th>Representing</th>
+                <th>Disposition</th>
+            </thead>
+            <tbody>
+                {% for case in cases %}
+                    <tr>
+                        <td>{{ forloop.counter }}</td>
+                        <td>{{ case.date_filed }}</td>
+                        <td><a href="/cases_data/{{ case.id }}">{{ case.case_type }}</a></td>
+                        <td><a href="/cases_data/{{ case.id }}">{{ case.case_number }}</a></td>
+                        <td>{{ representing|get_by_index:forloop.counter0 }}</td>
+                        <td>{{ disposition|get_by_index:forloop.counter0 }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+{% endblock %}

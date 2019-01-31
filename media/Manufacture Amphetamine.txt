@@ -1,0 +1,1 @@
+{"bar_card": "24001800", "full_name": "Mr. Marc Alden Brumberger", "cases_count": 1, "all_cases_count": 89}

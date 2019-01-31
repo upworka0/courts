@@ -1,0 +1,4 @@
+{"bar_card": "00784817", "full_name": "Ms. Laurellen Elizabeth 'Laurie' Ratliff", "cases_count": 1, "all_cases_count": 102}
+{"bar_card": "00796394", "full_name": "Mr. Scott S. Cooley", "cases_count": 1, "all_cases_count": 45}
+{"bar_card": "11614500", "full_name": "Mr. Marc O. Knisely", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "18004800", "full_name": "Mr. Steven 'Steve' Selby", "cases_count": 1, "all_cases_count": 29}

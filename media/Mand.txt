@@ -1,0 +1,2 @@
+{"bar_card": "08101000", "full_name": "Mr. Gerald Harris 'Gerry' Goldstein", "cases_count": 2, "all_cases_count": 54}
+{"bar_card": "13153000", "full_name": "Mr. Edgar Adams Mason", "cases_count": 1, "all_cases_count": 88}

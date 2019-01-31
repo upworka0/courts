@@ -1,0 +1,4 @@
+{"bar_card": "00789246", "full_name": "Ms. Tammy Marie Danberg-Farney", "cases_count": 2, "all_cases_count": 34}
+{"bar_card": "07555580", "full_name": "Mr. David Allen Furlow", "cases_count": 1, "all_cases_count": 109}
+{"bar_card": "17790500", "full_name": "Mr. Stanley G. Schneider", "cases_count": 1, "all_cases_count": 707}
+{"bar_card": "24010153", "full_name": "Ms. Stacy L. Kelly", "cases_count": 1, "all_cases_count": 22}

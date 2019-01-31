@@ -1,0 +1,1 @@
+{"bar_card": "15319000", "full_name": "Mr. Wm Alfred Orr Jr.", "cases_count": 1, "all_cases_count": 57}

@@ -1,0 +1,8 @@
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 2, "all_cases_count": 1625}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 2, "all_cases_count": 1924}
+{"bar_card": "18913500", "full_name": "Mr. Joseph Wilson Spence", "cases_count": 2, "all_cases_count": 963}
+{"bar_card": "09388250", "full_name": "Mr. William Scott 'Bill' Helfand", "cases_count": 1, "all_cases_count": 279}
+{"bar_card": "24037203", "full_name": "Ms. Shelby Leigh O'Brien", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "19844300", "full_name": "Mr. Bruce K. Thomas", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "24001791", "full_name": "Ms. Marla Diane Broaddus", "cases_count": 1, "all_cases_count": 17}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 1, "all_cases_count": 1406}

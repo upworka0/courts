@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block head_title %} {{ lawyer.full_name }} Profile || {{ block.super }} {% endblock head_title %}
+{% load extra_filters %}
+
+{% block content %}
+        <div class="row jumbotron container" id="profile" style="margin: auto;">
+        <div class="col-lg-3 col-md-12">
+            {% load static %}
+            {% if lawyer.profile_img %}
+                <img src="{{ lawyer.profile_img|get_avatar_url }}" alt="{{ lawyer.full_name }}" align="left" style="width:200px;height:270px;border-radius:10px;border:2px solid #000000;">
+            {% else %}
+                <img src="{% static 'images/no_avatar.jpg' %}" alt="{{ lawyer.full_name }}" align="left" style="width:200px;height:270px;border-radius:10px;border:2px solid #000000;">
+            {% endif %}
+        </div>
+
+        <div class="col-lg-5 col-md-12">
+            <h2 style="padding-bottom:20px;"><strong>{{ lawyer.full_name }}</strong> </h2>
+            <p><strong>Status: </strong> {{ lawyer.status }}</p>
+            <p><strong>Company: </strong> {{ lawyer.company }}</p>
+
+            <p><strong>Bar Card Number: </strong> {{ lawyer.bar_card }}</p>
+            <p><strong>TX License Date: </strong> {{ lawyer.license_date }}</p>
+            <p><strong>Primary Practice Location: </strong> {{ lawyer.practice_location }}</p>
+
+            <p><strong>Address: </strong>{{ lawyer.address|split_address|index:0 }}, {{ lawyer.address|split_address|index:1 }}</p>
+
+            <p><strong>Statutory Profile Last Certified On: </strong> {{ lawyer.statutory_profile_date }}</p>
+        </div>
+
+        <div class="col-lg-4 col-md-12">
+            <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address on Map</strong></h4>
+            <img class="show-desktop" src="{{ lawyer.gmaps_img }}" alt="{{ lawyer.address }}" title="{{ lawyer.address }}">
+        </div>
+    </div><br>
+
+    <div class="jumbotron container" style="padding: 3px;">
+    <br>
+    <h5 align="middle"><strong>Number of Cases filled by this Attorney: </strong>{{ cases|length }}
+            <a href="/cases/{{ lawyer.bar_card }}"> <strong id="cases-details-link"> (See All Cases Details) </strong> </a></h5><br>
+    </div>
+
+    <div>
+        <div class="jumbotron container" style="text-align: center;padding-top: 15px">
+        <h3 align="middle"><strong>Summary of the Cases Represented</strong> </h3><br>
+            <table class="sortable table table-hover table-bordered table-sm table-striped">
+                <thead>
+                    <th><h4>Number of Cases</h4> </th>
+                    <th><h4>Case Type</h4> </th>
+                </thead>
+                <tbody>
+                    {% for case in filtered_cases %}
+                    <tr>
+                        {% if case.highlight %}
+                        <td><a style="color: white !important;" href="/cases/{{ lawyer.bar_card }}/?case_type={{ case.case_type|get_case_type }}">{{ case.count_type }}</a></td>
+                        <td><a style="color: white !important;" href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}">{{ case.case_type }}</a></td>
+                        {% else %}
+                        <td><a href="/cases/{{ lawyer.bar_card }}/?case_type={{ case.case_type|get_case_type }}">{{ case.count_type }}</a></td>
+                        <td><a href="/lawyers_list/?case_type={{ case.case_type|get_case_type }}">{{ case.case_type }}</a></td>
+                        {% endif %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+{% endblock %}

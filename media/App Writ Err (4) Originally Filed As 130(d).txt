@@ -1,0 +1,7 @@
+{"bar_card": "00789675", "full_name": "Mr. William Michae 'Mike' Taylor", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "03826100", "full_name": "Mr. Jack Gardiner Carnegie", "cases_count": 1, "all_cases_count": 87}
+{"bar_card": "04091500", "full_name": "Mr. Brian M. Chandler", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "09802010", "full_name": "Mr. Richard P. Hogan Jr.", "cases_count": 1, "all_cases_count": 320}
+{"bar_card": "09977050", "full_name": "Ms. Kathleen Hopkins 'Kate' Alsina", "cases_count": 1, "all_cases_count": 115}
+{"bar_card": "12211200", "full_name": "Mr. Tim S. Leonard", "cases_count": 1, "all_cases_count": 25}
+{"bar_card": "20184500", "full_name": "Mr. Christopher Joseph 'Chris' Tramonte", "cases_count": 1, "all_cases_count": 34}

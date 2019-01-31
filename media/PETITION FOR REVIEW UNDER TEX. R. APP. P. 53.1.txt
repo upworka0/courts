@@ -1,0 +1,2 @@
+{"bar_card": "24038768", "full_name": "Ms. Sharita W. Williams 'Sharita' Blacknall", "cases_count": 2, "all_cases_count": 49}
+{"bar_card": "24062673", "full_name": "Ms. Susan Jeanne Lader Contreras", "cases_count": 1, "all_cases_count": 13}

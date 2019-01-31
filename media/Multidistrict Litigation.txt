@@ -1,0 +1,17 @@
+{"bar_card": "24041363", "full_name": "Mr. Ronald Casey 'Casey' Low", "cases_count": 3, "all_cases_count": 40}
+{"bar_card": "20070500", "full_name": "Mr. Stephen G. Tipps", "cases_count": 3, "all_cases_count": 162}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 2, "all_cases_count": 1726}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 2, "all_cases_count": 1924}
+{"bar_card": "06332400", "full_name": "Mr. Michael W. 'Michael' Eady", "cases_count": 2, "all_cases_count": 135}
+{"bar_card": "05898300", "full_name": "Mr. Rick Disney", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "02938600", "full_name": "Ms. Linda Claire Breck", "cases_count": 1, "all_cases_count": 196}
+{"bar_card": "08203900", "full_name": "Mr. Philip S. 'Phil' Gordon", "cases_count": 1, "all_cases_count": 14}
+{"bar_card": "16245550", "full_name": "Ms. Karen S. Precella", "cases_count": 1, "all_cases_count": 85}
+{"bar_card": "17532080", "full_name": "Mr. Travis James Sales", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "17736870", "full_name": "Justice David J. Schenck", "cases_count": 1, "all_cases_count": 50}
+{"bar_card": "17858450", "full_name": "Mr. John C. 'John Schwambach' Schwambach Jr.", "cases_count": 1, "all_cases_count": 74}
+{"bar_card": "03059100", "full_name": "Ms. Linda Broocks", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "21050060", "full_name": "Ms. Jane M. N. Webre", "cases_count": 1, "all_cases_count": 281}
+{"bar_card": "24012371", "full_name": "Mr. Kevin Graham Cain", "cases_count": 1, "all_cases_count": 66}
+{"bar_card": "24037129", "full_name": "Mr. Kristofer S Monson", "cases_count": 1, "all_cases_count": 140}
+{"bar_card": "03239100", "full_name": "Ms. Jennifer Bruch Hogan", "cases_count": 1, "all_cases_count": 312}

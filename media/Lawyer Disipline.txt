@@ -1,0 +1,3 @@
+{"bar_card": "24059400", "full_name": "Ms. Alison Rae Ashmore", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "24060015", "full_name": "Mr. Daron L. Janis", "cases_count": 1, "all_cases_count": 40}
+{"bar_card": "24097432", "full_name": "Nicholas Mario 'Nick' Bruno", "cases_count": 1, "all_cases_count": 13}

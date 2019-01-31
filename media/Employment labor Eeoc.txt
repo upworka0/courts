@@ -1,0 +1,15 @@
+{"bar_card": "00797504", "full_name": "Mr. Jonathan Scott Stoger", "cases_count": 5, "all_cases_count": 64}
+{"bar_card": "16215500", "full_name": "Mr. Bruce Stephen Powers", "cases_count": 2, "all_cases_count": 100}
+{"bar_card": "16832460", "full_name": "Ms. Lisa Rice 'Lisa Rice Hulsey' Hulsey", "cases_count": 2, "all_cases_count": 55}
+{"bar_card": "09590800", "full_name": "Mr. Robert William Higgason", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "11393410", "full_name": "Mr. Neal David Kieval", "cases_count": 1, "all_cases_count": 65}
+{"bar_card": "11786920", "full_name": "Ms. Samara Lackman Kline", "cases_count": 1, "all_cases_count": 43}
+{"bar_card": "12750980", "full_name": "Mr. Bobby Scott 'Bob' Mabry", "cases_count": 1, "all_cases_count": 46}
+{"bar_card": "15739010", "full_name": "Mr. L. Aron 'Aaron' Pena Jr.", "cases_count": 1, "all_cases_count": 54}
+{"bar_card": "18918400", "full_name": "Mr. W. Ross Spence", "cases_count": 1, "all_cases_count": 44}
+{"bar_card": "20579310", "full_name": "Mr. George William Vie III", "cases_count": 1, "all_cases_count": 319}
+{"bar_card": "24014084", "full_name": "Mr. Norman Ray Giles", "cases_count": 1, "all_cases_count": 24}
+{"bar_card": "00787440", "full_name": "Mr. Benjamin A. Escobar Jr.", "cases_count": 1, "all_cases_count": 23}
+{"bar_card": "24045423", "full_name": "Mr. Adam Warren Aston", "cases_count": 1, "all_cases_count": 28}
+{"bar_card": "04086600", "full_name": "Ms. Andrea Chan", "cases_count": 1, "all_cases_count": 146}
+{"bar_card": "09388250", "full_name": "Mr. William Scott 'Bill' Helfand", "cases_count": 1, "all_cases_count": 279}

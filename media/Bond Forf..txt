@@ -1,0 +1,1 @@
+{"bar_card": "11073100", "full_name": "Ms. Leora Teicher Kahn", "cases_count": 1, "all_cases_count": 144}

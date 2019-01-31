@@ -1,0 +1,19 @@
+{"bar_card": "24074568", "full_name": "Mr. James Joseph LaMarca", "cases_count": 4, "all_cases_count": 25}
+{"bar_card": "00795437", "full_name": "Mr. James 'Jim' Huggler", "cases_count": 3, "all_cases_count": 609}
+{"bar_card": "00000068", "full_name": "Mr. Lonny D. Morrison", "cases_count": 1, "all_cases_count": 1415}
+{"bar_card": "00794430", "full_name": "Mr. M. Ariel Payan", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 685}
+{"bar_card": "12266480", "full_name": "Ms. Katherine Lynn 'Kathy' Levy", "cases_count": 1, "all_cases_count": 174}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 198}
+{"bar_card": "19260950", "full_name": "Justice Craig Thomas Stoddart", "cases_count": 1, "all_cases_count": 107}
+{"bar_card": "19466300", "full_name": "Mr. Frank B. Suhr", "cases_count": 1, "all_cases_count": 67}
+{"bar_card": "24003663", "full_name": "Mr. Melroy 'Mel' Koehler", "cases_count": 1, "all_cases_count": 9}
+{"bar_card": "24025336", "full_name": "Mr. Frederick Thomas 'Rick' Dunbar", "cases_count": 1, "all_cases_count": 153}
+{"bar_card": "24041722", "full_name": "Mr. John Carlos Prezas", "cases_count": 1, "all_cases_count": 53}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 1, "all_cases_count": 612}
+{"bar_card": "24048238", "full_name": "Mr. Christopher Michael 'Chris' Eaton", "cases_count": 1, "all_cases_count": 51}
+{"bar_card": "24052034", "full_name": "Mr. John Cameron Stevenson", "cases_count": 1, "all_cases_count": 14}
+{"bar_card": "24073751", "full_name": "Ms. Shara D. Saget", "cases_count": 1, "all_cases_count": 84}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "24075764", "full_name": "Mr. Jonathan Whitlock Wharton", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "00000016", "full_name": "Mr. David Christopher Newell", "cases_count": 1, "all_cases_count": 1625}

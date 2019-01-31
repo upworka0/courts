@@ -1,0 +1,8 @@
+{"bar_card": "24062194", "full_name": "Mr. Deterrean Shaunessey Gamble", "cases_count": 35, "all_cases_count": 408}
+{"bar_card": "09529400", "full_name": "Ms. Rande K. Herrell", "cases_count": 32, "all_cases_count": 566}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 17, "all_cases_count": 1924}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 10, "all_cases_count": 1406}
+{"bar_card": "00790254", "full_name": "Mr. Bruce David Bain", "cases_count": 2, "all_cases_count": 10}
+{"bar_card": "21885100", "full_name": "Ms. Cecilia M. Wood", "cases_count": 2, "all_cases_count": 50}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "24044940", "full_name": "Ms. Brandi K. Stokes", "cases_count": 1, "all_cases_count": 12}

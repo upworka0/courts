@@ -1,0 +1,22 @@
+{"bar_card": "04422400", "full_name": "Mr. Clay E. Coalson", "cases_count": 4, "all_cases_count": 156}
+{"bar_card": "17316750", "full_name": "Mr. Scott Rothenberg", "cases_count": 2, "all_cases_count": 226}
+{"bar_card": "00794461", "full_name": "Ms. Ruth Ellen Piller", "cases_count": 2, "all_cases_count": 70}
+{"bar_card": "05942000", "full_name": "Mr. Paul Dodson", "cases_count": 2, "all_cases_count": 149}
+{"bar_card": "08817000", "full_name": "Mr. Ferriel C. Hamby Jr.", "cases_count": 2, "all_cases_count": 71}
+{"bar_card": "09219000", "full_name": "Mr. Michael A. 'Mike' Hatchell", "cases_count": 1, "all_cases_count": 489}
+{"bar_card": "09590800", "full_name": "Mr. Robert William Higgason", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "11198299", "full_name": "Ms. Mary F. Keller", "cases_count": 1, "all_cases_count": 84}
+{"bar_card": "12211200", "full_name": "Mr. Tim S. Leonard", "cases_count": 1, "all_cases_count": 25}
+{"bar_card": "13882700", "full_name": "Ms. Elizabeth Meador Bruman", "cases_count": 1, "all_cases_count": 76}
+{"bar_card": "15254700", "full_name": "Mr. Rene O. Oliveira", "cases_count": 1, "all_cases_count": 66}
+{"bar_card": "16492500", "full_name": "Mr. Bruce Edwin Ramage", "cases_count": 1, "all_cases_count": 87}
+{"bar_card": "16956800", "full_name": "Mr. Augustin 'Augie' Rivera Jr.", "cases_count": 1, "all_cases_count": 68}
+{"bar_card": "19034350", "full_name": "Mr. William B. 'Bruce' Stanfill", "cases_count": 1, "all_cases_count": 23}
+{"bar_card": "20415600", "full_name": "Mr. Jack Edward 'Jack' Urquhart", "cases_count": 1, "all_cases_count": 49}
+{"bar_card": "24002999", "full_name": "Mr. Howard Lynn 'Howard Steele' Steele Jr.", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "00787386", "full_name": "Mr. Jeffrey Lee 'Jeff' Dorrell", "cases_count": 1, "all_cases_count": 77}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 1, "all_cases_count": 109}
+{"bar_card": "00791708", "full_name": "Mr. Thad D. Spalding", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "04508500", "full_name": "Justice Murry B. Cohen", "cases_count": 1, "all_cases_count": 106}
+{"bar_card": "04744660", "full_name": "Mr. Randall J. 'Randy' Cook", "cases_count": 1, "all_cases_count": 32}
+{"bar_card": "05430551", "full_name": "Ms. Sylvia Davidow", "cases_count": 1, "all_cases_count": 50}

@@ -1,0 +1,20 @@
+{"bar_card": "10431500", "full_name": "Mr. Allen C. Isbell", "cases_count": 23, "all_cases_count": 430}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 8, "all_cases_count": 530}
+{"bar_card": "15861300", "full_name": "Mr. Douglas H. 'Doug' Pettit", "cases_count": 8, "all_cases_count": 126}
+{"bar_card": "11073100", "full_name": "Ms. Leora Teicher Kahn", "cases_count": 7, "all_cases_count": 144}
+{"bar_card": "06768725", "full_name": "Mr. Cary Marshall Faden", "cases_count": 5, "all_cases_count": 337}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 5, "all_cases_count": 536}
+{"bar_card": "08240320", "full_name": "Mr. Jerald Kaplan Graber", "cases_count": 5, "all_cases_count": 263}
+{"bar_card": "11825500", "full_name": "Mr. Jules L. Laird Jr.", "cases_count": 5, "all_cases_count": 133}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 4, "all_cases_count": 221}
+{"bar_card": "00791107", "full_name": "Mr. Chip B. Lewis", "cases_count": 3, "all_cases_count": 53}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 3, "all_cases_count": 326}
+{"bar_card": "13183750", "full_name": "Ms. Mary F. Masterson", "cases_count": 2, "all_cases_count": 29}
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 2, "all_cases_count": 189}
+{"bar_card": "24027592", "full_name": "Mr. Calvin Deshon Parks", "cases_count": 1, "all_cases_count": 43}
+{"bar_card": "00792771", "full_name": "Ms. Dionne Susan Press", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "10098100", "full_name": "Mr. Douglas W. Howell III", "cases_count": 1, "all_cases_count": 685}
+{"bar_card": "13407200", "full_name": "Ms. Kelly McClendon", "cases_count": 1, "all_cases_count": 165}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 198}
+{"bar_card": "21633500", "full_name": "Mr. Joseph Rutherford Willie II", "cases_count": 1, "all_cases_count": 342}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 1, "all_cases_count": 307}

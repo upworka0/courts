@@ -1,0 +1,5 @@
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 7, "all_cases_count": 163}
+{"bar_card": "13407200", "full_name": "Ms. Kelly McClendon", "cases_count": 4, "all_cases_count": 165}
+{"bar_card": "16215500", "full_name": "Mr. Bruce Stephen Powers", "cases_count": 3, "all_cases_count": 100}
+{"bar_card": "00788670", "full_name": "Mr. Barry Conrad Willey", "cases_count": 1, "all_cases_count": 47}
+{"bar_card": "16832460", "full_name": "Ms. Lisa Rice 'Lisa Rice Hulsey' Hulsey", "cases_count": 1, "all_cases_count": 55}

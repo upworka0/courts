@@ -1,0 +1,17 @@
+{"bar_card": "03319970", "full_name": "Ms. Catherine Bukowski 'Cathy' Smith", "cases_count": 1, "all_cases_count": 171}
+{"bar_card": "04581950", "full_name": "Mr. Donald 'DON' Colleluori", "cases_count": 1, "all_cases_count": 44}
+{"bar_card": "05655566", "full_name": "Mr. Denis Dennis", "cases_count": 1, "all_cases_count": 60}
+{"bar_card": "08532980", "full_name": "Mr. Jay Nelkin Gross", "cases_count": 1, "all_cases_count": 11}
+{"bar_card": "08880500", "full_name": "Mr. Clinard J. 'Buddy' Hanby", "cases_count": 1, "all_cases_count": 194}
+{"bar_card": "10148415", "full_name": "Mr. Michael Wallace Huddleston", "cases_count": 1, "all_cases_count": 93}
+{"bar_card": "12093300", "full_name": "Ms. Gloria Leal", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "14759400", "full_name": "Mr. David C. Myers", "cases_count": 1, "all_cases_count": 23}
+{"bar_card": "15011500", "full_name": "Ms. Penelope E. 'Penny' Nicholson", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "15633800", "full_name": "Mr. Timothy Patton", "cases_count": 1, "all_cases_count": 163}
+{"bar_card": "16801500", "full_name": "Mr. John T. Reynolds", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "16956800", "full_name": "Mr. Augustin 'Augie' Rivera Jr.", "cases_count": 1, "all_cases_count": 68}
+{"bar_card": "17871550", "full_name": "Mr. Kurt A. Schwarz", "cases_count": 1, "all_cases_count": 15}
+{"bar_card": "18191660", "full_name": "Mr. Jeffrey William 'Jeff Shell' Shell", "cases_count": 1, "all_cases_count": 95}
+{"bar_card": "19684500", "full_name": "Ben Taylor", "cases_count": 1, "all_cases_count": 225}
+{"bar_card": "19712250", "full_name": "Ms. Leslie C. 'Leslie Copeland' Taylor", "cases_count": 1, "all_cases_count": 56}
+{"bar_card": "20508300", "full_name": "Ms. Julia E. Vaughan", "cases_count": 1, "all_cases_count": 54}

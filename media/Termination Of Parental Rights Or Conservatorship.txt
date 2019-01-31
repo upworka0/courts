@@ -1,0 +1,1 @@
+{"bar_card": "08495700", "full_name": "Mr. James Randall 'Randy Grimes' Grimes", "cases_count": 1, "all_cases_count": 11}

@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block head_title %} {{ cases.0.lawyer.full_name }} Cases || {{ block.super }} {% endblock head_title %}
+{% load extra_filters %}
+{% load static %}
+
+{% block content %}
+    <h1><a href="/lawyer/{{ case.lawyer_id }}">{{ case.lawyer }}</a></h1>
+    <table id="{{ case.id }}" border="1" style="border-collapse:collapse; border: 1px solid gray;" width="100%">
+        <tbody>
+            <tr align="center" valign="top">
+                <td bgcolor="white"><strong><a id="events_{{ case.id }}" class="ajax_case" href="javascript:void(0)">CASE EVENTS</a></strong></td>
+                <td bgcolor="white"><strong><a id="trial_{{ case.id }}" class="ajax_case" href="javascript:void(0)">TRIAL COURT INFORMATION</a></strong></td>
+                <td bgcolor="white"><strong><a id="parties_{{ case.id }}" class="ajax_case" href="javascript:void(0)">PARTIES</a></strong></td>
+                <td bgcolor="white"><strong><a id="calendars_{{ case.id }}" class="ajax_case" href="javascript:void(0)">CALENDARS</a></strong></td>
+                <td bgcolor="white"><strong><a id="briefs_{{ case.id }}" class="ajax_case" href="javascript:void(0)">APPELLATE BRIEFS</a></strong></td>
+            </tr>
+        </tbody>
+    </table>
+    <div id="case_content_{{ case.id }}">
+        <br>{{ case.case_events | safe }}
+    </div>
+    <br><br>
+
+<script type='text/javascript' src="{% static "jquery-3.3.1.min.js" %}"></script>
+<script type='text/javascript'>
+	$(document).ready(function() {
+{#        var id = $("#category").attr('value').split('_')[1];#}
+{#        $.ajax({#}
+{#            url: '/ajax_case/',#}
+{#            data: {data: $("#category").attr('value')},#}
+{#            success: function (data) {#}
+{#                $("#case_content_" + id).html(data);#}
+{#            }#}
+{#        });#}
+
+    $(".ajax_case").click(function () {
+        var id = $(this).attr('id').split('_')[1];
+
+        $.ajax({
+            url: '/ajax_case/',
+            data: {data: $(this).attr('id')},
+            success: function (data) {
+                $("#case_content_" + id).html(data);
+            }
+        });
+    });
+    });
+</script>
+{% endblock %}

@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block head_title %} Home || {{ block.super }} {% endblock head_title %}
+
+{% block content %}
+    <div class="container" style="text-align: center">
+
+    <h1>Search Attorneys</h1>
+    <br>
+
+    <div class="row">
+    <div class="col-8 mr-auto" style="margin: 0 auto;">
+    <form class="form-inline">
+        <input class="form-control" placeholder="First Name" name="first_name" value="{{ request.GET.first_name }}">
+        <input class="form-control" placeholder="Last Name" name="last_name" value="{{ request.GET.last_name }}">
+        <input class="form-control" placeholder="Bar Card Number" name="bar_card" value="{{ request.GET.bar_card }}">
+        <input type="submit" value="Search" class="btn btn-primary">
+    </form>
+    </div>
+    </div>
+    <br>
+
+
+    <h3>Results</h3>
+
+
+    <div class="container search-results-table">
+    <table class="sortable table table-hover table-bordered">
+        <thead>
+            <th>No.</th>
+            <th>Attorney Name &#9650 &#9660</th>
+            <th>Cases Number &#9650 &#9660</th>
+        </thead>
+
+        <tbody>
+        {% for lawyer in lawyers %}
+        <tr>
+            <td> {{ forloop.counter }}</td>
+            <td><a href="/lawyer/{{ lawyer.bar_card }}">{{ lawyer.full_name }}</a></td>
+            <td><a href="/cases/{{ lawyer.bar_card }}/?case_type={{ case_type }}"> <strong>{{ lawyer.cases_count }}</strong> </a> </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    </div>
+
+    </div>
+{% endblock %}
+
+

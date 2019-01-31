@@ -1,0 +1,3 @@
+{"bar_card": "00797496", "full_name": "Mr. Perry Richard Stevens", "cases_count": 1, "all_cases_count": 134}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 1, "all_cases_count": 530}
+{"bar_card": "24027742", "full_name": "Mr. Trey David Picard", "cases_count": 1, "all_cases_count": 163}

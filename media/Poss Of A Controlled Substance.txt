@@ -1,0 +1,1 @@
+{"bar_card": "00787254", "full_name": "Mr. Tracy Dee Cluck", "cases_count": 5, "all_cases_count": 43}

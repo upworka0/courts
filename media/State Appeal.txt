@@ -1,0 +1,7 @@
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 4, "all_cases_count": 353}
+{"bar_card": "00795861", "full_name": "Mr. Aaron Ray Clements", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "07818000", "full_name": "Ms. Terrie L. Sechrist", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "00788384", "full_name": "Mr. Richard John 'Dickie' Segura Jr.", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "10119000", "full_name": "Mr. Jerry W. Howeth", "cases_count": 1, "all_cases_count": 104}
+{"bar_card": "17818000", "full_name": "Mr. William L. Schroeder", "cases_count": 1, "all_cases_count": 20}
+{"bar_card": "19466300", "full_name": "Mr. Frank B. Suhr", "cases_count": 1, "all_cases_count": 67}

@@ -1,0 +1,12 @@
+{"bar_card": "19959725", "full_name": "Mr. Wayln G. Thompson", "cases_count": 3, "all_cases_count": 761}
+{"bar_card": "00793305", "full_name": "Mr. David W. Barlow", "cases_count": 3, "all_cases_count": 527}
+{"bar_card": "24050883", "full_name": "Mr. Matthew Joseph Kita", "cases_count": 2, "all_cases_count": 158}
+{"bar_card": "12166650", "full_name": "Ms. Danielle  Ailine 'Danielle Kennedy' Kennedy", "cases_count": 1, "all_cases_count": 143}
+{"bar_card": "18562635", "full_name": "Ms. Deborah Smith 'Debbie' McClure", "cases_count": 1, "all_cases_count": 103}
+{"bar_card": "22041800", "full_name": "Mr. Jay M. Wright", "cases_count": 1, "all_cases_count": 97}
+{"bar_card": "24025819", "full_name": "Mr. Milton Troy 'Troy Bollinger' Bollinger", "cases_count": 1, "all_cases_count": 39}
+{"bar_card": "24073751", "full_name": "Ms. Shara D. Saget", "cases_count": 1, "all_cases_count": 84}
+{"bar_card": "24074812", "full_name": "Mr. Jason Edward Niehaus", "cases_count": 1, "all_cases_count": 101}
+{"bar_card": "24079007", "full_name": "Natalie Ann Anderson ", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "00794430", "full_name": "Mr. M. Ariel Payan", "cases_count": 1, "all_cases_count": 189}
+{"bar_card": "01738480", "full_name": "Mr. Bobby Dale Barina", "cases_count": 1, "all_cases_count": 208}

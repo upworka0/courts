@@ -1,0 +1,9 @@
+{"bar_card": "24077883", "full_name": "Briana Marie Webb", "cases_count": 2, "all_cases_count": 21}
+{"bar_card": "24065628", "full_name": "Mr. Christopher Lee Lindsey", "cases_count": 2, "all_cases_count": 31}
+{"bar_card": "00796872", "full_name": "Ms. Meredith Lea Kennedy", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "09529400", "full_name": "Ms. Rande K. Herrell", "cases_count": 1, "all_cases_count": 566}
+{"bar_card": "16215500", "full_name": "Mr. Bruce Stephen Powers", "cases_count": 1, "all_cases_count": 100}
+{"bar_card": "24062194", "full_name": "Mr. Deterrean Shaunessey Gamble", "cases_count": 1, "all_cases_count": 408}
+{"bar_card": "00000049", "full_name": "Justice Dale Wainwright", "cases_count": 1, "all_cases_count": 1406}
+{"bar_card": "24078726", "full_name": "Mr. Craig McCam Jacobs", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "00786243", "full_name": "Ms. April Lavonda Smith", "cases_count": 1, "all_cases_count": 20}

@@ -1,0 +1,3 @@
+{"bar_card": "12816200", "full_name": "Mr. Alan Neil Magenheim", "cases_count": 2, "all_cases_count": 98}
+{"bar_card": "05713500", "full_name": "Mr. James O. 'Jim' Deegear III", "cases_count": 1, "all_cases_count": 39}
+{"bar_card": "11058030", "full_name": "Mr. Frederick D. 'Fred' Junkin", "cases_count": 1, "all_cases_count": 72}

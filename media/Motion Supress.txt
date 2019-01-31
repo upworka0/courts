@@ -1,0 +1,12 @@
+{"bar_card": "13737650", "full_name": "Mr. Tuck Moody McLain", "cases_count": 3, "all_cases_count": 189}
+{"bar_card": "24025227", "full_name": "Ms. Bridget Woody Holloway", "cases_count": 3, "all_cases_count": 530}
+{"bar_card": "21422700", "full_name": "Mr. Robert S. 'Bob' Wicoff", "cases_count": 2, "all_cases_count": 536}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 2, "all_cases_count": 221}
+{"bar_card": "90001299", "full_name": "Ms. Abigail L. 'Abby' Keenan", "cases_count": 2, "all_cases_count": 18}
+{"bar_card": "22243420", "full_name": "Mr. Thomas Anthony 'Tom' Zakes", "cases_count": 1, "all_cases_count": 126}
+{"bar_card": "24013307", "full_name": "Mr. Peyton Zimmerman Peebles III", "cases_count": 1, "all_cases_count": 326}
+{"bar_card": "19834000", "full_name": "Mr. Lane D. Thibodeaux", "cases_count": 1, "all_cases_count": 142}
+{"bar_card": "13407200", "full_name": "Ms. Kelly McClendon", "cases_count": 1, "all_cases_count": 165}
+{"bar_card": "16287480", "full_name": "Mr. I. Richard 'Richard' Price", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "17790500", "full_name": "Mr. Stanley G. Schneider", "cases_count": 1, "all_cases_count": 707}
+{"bar_card": "00791107", "full_name": "Mr. Chip B. Lewis", "cases_count": 1, "all_cases_count": 53}

@@ -1,0 +1,1 @@
+{"bar_card": "03847500", "full_name": "Mr. Otha Tyrone Carpenter", "cases_count": 1, "all_cases_count": 19}

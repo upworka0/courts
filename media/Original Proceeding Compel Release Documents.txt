@@ -1,0 +1,1 @@
+{"bar_card": "19141300", "full_name": "Ms. Stephani Ann Stelmach", "cases_count": 1, "all_cases_count": 1}

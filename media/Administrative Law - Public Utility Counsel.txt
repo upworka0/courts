@@ -1,0 +1,6 @@
+{"bar_card": "00790256", "full_name": "Mr. Bryan Lawrence 'Bryan Baker' Baker", "cases_count": 6, "all_cases_count": 35}
+{"bar_card": "00794264", "full_name": "Ms. Marnie Ann McCormick", "cases_count": 3, "all_cases_count": 92}
+{"bar_card": "11614500", "full_name": "Mr. Marc O. Knisely", "cases_count": 2, "all_cases_count": 74}
+{"bar_card": "16922300", "full_name": "Ms. Jennifer Scott 'Riggs' Riggs", "cases_count": 2, "all_cases_count": 169}
+{"bar_card": "24032626", "full_name": "Ms. Susan Allison Kidwell", "cases_count": 1, "all_cases_count": 99}
+{"bar_card": "24043797", "full_name": "Ms. Megan M. Neal", "cases_count": 1, "all_cases_count": 10}

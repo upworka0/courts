@@ -1,0 +1,5 @@
+{"bar_card": "09388250", "full_name": "Mr. William Scott 'Bill' Helfand", "cases_count": 2, "all_cases_count": 279}
+{"bar_card": "01160300", "full_name": "Ms. Jessie Alliene Amos", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "24007920", "full_name": "Mr. Christopher Carl Ritter", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "24012975", "full_name": "Mr. Steven  Jon Knight", "cases_count": 1, "all_cases_count": 129}
+{"bar_card": "24035655", "full_name": "Mr. Rance Lamar Craft", "cases_count": 1, "all_cases_count": 71}

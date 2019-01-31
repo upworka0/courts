@@ -1,0 +1,22 @@
+{"bar_card": "11111500", "full_name": "Mr. Albert H. 'Al' Kauffman", "cases_count": 7, "all_cases_count": 13}
+{"bar_card": "17281075", "full_name": "Mr. Brent Marcus 'Brent Rosenthal' Rosenthal", "cases_count": 5, "all_cases_count": 70}
+{"bar_card": "00791261", "full_name": "Ms. Danica Lynn 'Danica' Milios", "cases_count": 3, "all_cases_count": 78}
+{"bar_card": "00795708", "full_name": "Ms. Amy Warr", "cases_count": 3, "all_cases_count": 119}
+{"bar_card": "01268200", "full_name": "Mr. Thomas K. Anson", "cases_count": 3, "all_cases_count": 18}
+{"bar_card": "11614500", "full_name": "Mr. Marc O. Knisely", "cases_count": 2, "all_cases_count": 74}
+{"bar_card": "24008169", "full_name": "Mr. Mark Ryan Trachtenberg", "cases_count": 2, "all_cases_count": 64}
+{"bar_card": "09580400", "full_name": "Mr. Max Renea 'Renea' Hicks", "cases_count": 2, "all_cases_count": 74}
+{"bar_card": "12095275", "full_name": "Mr. Thomas S. 'Tom' Leatherbury", "cases_count": 1, "all_cases_count": 102}
+{"bar_card": "16175300", "full_name": "Mr. Harry Grant Potter III", "cases_count": 1, "all_cases_count": 31}
+{"bar_card": "16922300", "full_name": "Ms. Jennifer Scott 'Riggs' Riggs", "cases_count": 1, "all_cases_count": 169}
+{"bar_card": "17186350", "full_name": "Mr. Stephan Bruce 'Steve' Rogers", "cases_count": 1, "all_cases_count": 117}
+{"bar_card": "21050060", "full_name": "Ms. Jane M. N. Webre", "cases_count": 1, "all_cases_count": 281}
+{"bar_card": "00790256", "full_name": "Mr. Bryan Lawrence 'Bryan Baker' Baker", "cases_count": 1, "all_cases_count": 35}
+{"bar_card": "24070027", "full_name": "Mr. Gavin Burke Justiss", "cases_count": 1, "all_cases_count": 14}
+{"bar_card": "00790782", "full_name": "Mr. Kendall Matthew 'Kendall' Gray", "cases_count": 1, "all_cases_count": 67}
+{"bar_card": "01797100", "full_name": "Ms. Pamela Stanton Baron", "cases_count": 1, "all_cases_count": 125}
+{"bar_card": "01814000", "full_name": "Mr. Roy Lee 'Roy' Barrett", "cases_count": 1, "all_cases_count": 76}
+{"bar_card": "02600985", "full_name": "Mr. Raymond 'Ray' Bonilla Jr.", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "03386500", "full_name": "Mr. Michael G. Burk", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "11054600", "full_name": "Mr. P. Michael 'Michael' Jung", "cases_count": 1, "all_cases_count": 299}
+{"bar_card": "11198299", "full_name": "Ms. Mary F. Keller", "cases_count": 1, "all_cases_count": 84}

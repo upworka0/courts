@@ -1,0 +1,10 @@
+{"bar_card": "24055658", "full_name": "Mr. Alexis Enrique 'Alex' Hernandez", "cases_count": 5, "all_cases_count": 64}
+{"bar_card": "06117800", "full_name": "Ms. Katherine A. 'Kathi' Drew", "cases_count": 5, "all_cases_count": 944}
+{"bar_card": "06855600", "full_name": "Ms. Helena Foret Faulkner", "cases_count": 2, "all_cases_count": 197}
+{"bar_card": "24050279", "full_name": "Ms. Riann Christine Moore", "cases_count": 2, "all_cases_count": 316}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 1, "all_cases_count": 612}
+{"bar_card": "00000015", "full_name": "Mr. Kevin Patrick Yeary", "cases_count": 1, "all_cases_count": 1726}
+{"bar_card": "90001967", "full_name": "Mr. Brian Marcus Middleton", "cases_count": 1, "all_cases_count": 68}
+{"bar_card": "00000020", "full_name": "Justice Deborah G. Hankinson", "cases_count": 1, "all_cases_count": 1924}
+{"bar_card": "02020700", "full_name": "Mr. Elmer C. Beckworth Jr.", "cases_count": 1, "all_cases_count": 176}
+{"bar_card": "24031578", "full_name": "Mr. Bryan K. 'BRYAN' Savoy", "cases_count": 1, "all_cases_count": 12}

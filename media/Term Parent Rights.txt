@@ -1,0 +1,6 @@
+{"bar_card": "14238000", "full_name": "Mr. Ebb  Bailey 'Ebb' Mobley III", "cases_count": 2, "all_cases_count": 776}
+{"bar_card": "00786313", "full_name": "Mr. James Wesley Volberding", "cases_count": 1, "all_cases_count": 175}
+{"bar_card": "00790254", "full_name": "Mr. Bruce David Bain", "cases_count": 1, "all_cases_count": 10}
+{"bar_card": "00797541", "full_name": "Mr. Scott Elwin Tatum", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "06717580", "full_name": "Mr. George Stephen 'Stephen' Evans", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "07149500", "full_name": "Mr. James Calvin 'jim' Fling", "cases_count": 1, "all_cases_count": 87}

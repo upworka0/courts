@@ -1,0 +1,11 @@
+{"bar_card": "06768500", "full_name": "Mr. Abe Factor", "cases_count": 14, "all_cases_count": 895}
+{"bar_card": "20629400", "full_name": "Mr. Earl Raymon Waddell III", "cases_count": 12, "all_cases_count": 317}
+{"bar_card": "01782120", "full_name": "Mr. J. Rex 'Rex' Barnett", "cases_count": 7, "all_cases_count": 184}
+{"bar_card": "01643100", "full_name": "Mr. Wessley T. 'Wes' Ball", "cases_count": 4, "all_cases_count": 208}
+{"bar_card": "00787660", "full_name": "Mr. John Thomas 'John' Haughton", "cases_count": 2, "all_cases_count": 44}
+{"bar_card": "19550620", "full_name": "Mr. Dean M. Swanda", "cases_count": 2, "all_cases_count": 310}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 353}
+{"bar_card": "13465500", "full_name": "Mr. Davis G. McCown", "cases_count": 1, "all_cases_count": 35}
+{"bar_card": "16460150", "full_name": "Mr. Christopher David Raesz", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "00790003", "full_name": "Mr. Michael Lyn 'Mike' Gregory", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "08696000", "full_name": "Mr. John Harbell Hagler", "cases_count": 1, "all_cases_count": 302}

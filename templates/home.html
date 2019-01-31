@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block head_title %} Home || {{ block.super }} {% endblock head_title %}
+
+{% block content %}
+    <div class="container jumbotron" style="text-align: center;">
+        <h1>Welcome to Attorneys DataBase</h1><br><br>
+        <div class="row">
+            <div class="col-md-6">
+                <a href="/search_lawyers"><button class="btn btn-primary">Search Attorneys </button></a>
+            </div>
+             <div class="col-md-6">
+                <a href="/cases_types"><button class="btn btn-primary">All Cases Types</button></a>
+            </div>
+
+        </div>
+
+    </div>
+
+
+{% endblock %}

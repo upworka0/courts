@@ -1,0 +1,16 @@
+{"bar_card": "01738480", "full_name": "Mr. Bobby Dale Barina", "cases_count": 9, "all_cases_count": 208}
+{"bar_card": "17833400", "full_name": "Mr. David A. Schulman", "cases_count": 4, "all_cases_count": 470}
+{"bar_card": "05227500", "full_name": "Ms. Patricia Jean Cummings", "cases_count": 4, "all_cases_count": 95}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 3, "all_cases_count": 393}
+{"bar_card": "00785492", "full_name": "Mr. Gonzalo P. Rios Jr.", "cases_count": 3, "all_cases_count": 58}
+{"bar_card": "17610700", "full_name": "Mr. Forrest L. Sanderson III", "cases_count": 3, "all_cases_count": 97}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 2, "all_cases_count": 353}
+{"bar_card": "17880500", "full_name": "Mr. Stanley L. 'Stan' Schwieger", "cases_count": 1, "all_cases_count": 624}
+{"bar_card": "20871500", "full_name": "Mr. Larry Logan 'LARRY' Warner Sr.", "cases_count": 1, "all_cases_count": 361}
+{"bar_card": "21885100", "full_name": "Ms. Cecilia M. Wood", "cases_count": 1, "all_cases_count": 50}
+{"bar_card": "00794721", "full_name": "Ms. Holly Eileen 'Holly' Taylor", "cases_count": 1, "all_cases_count": 238}
+{"bar_card": "00795833", "full_name": "Mr. Leroy R. 'Medford' Medford", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "06117800", "full_name": "Ms. Katherine A. 'Kathi' Drew", "cases_count": 1, "all_cases_count": 944}
+{"bar_card": "11910100", "full_name": "Ms. Libra Joy 'Libby' Lange", "cases_count": 1, "all_cases_count": 104}
+{"bar_card": "12830050", "full_name": "Mr. Kenneth G. 'Ken' Mahaffey", "cases_count": 1, "all_cases_count": 230}
+{"bar_card": "13922100", "full_name": "Ms. Beverly Daphene Melontree", "cases_count": 1, "all_cases_count": 18}

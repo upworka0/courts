@@ -1,0 +1,2 @@
+{"bar_card": "24062673", "full_name": "Ms. Susan Jeanne Lader Contreras", "cases_count": 2, "all_cases_count": 13}
+{"bar_card": "24076617", "full_name": "Tyler Whitney Pennington", "cases_count": 1, "all_cases_count": 27}

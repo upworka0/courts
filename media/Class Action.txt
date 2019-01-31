@@ -1,0 +1,21 @@
+{"bar_card": "21050060", "full_name": "Ms. Jane M. N. Webre", "cases_count": 2, "all_cases_count": 281}
+{"bar_card": "24037129", "full_name": "Mr. Kristofer S Monson", "cases_count": 2, "all_cases_count": 140}
+{"bar_card": "00787396", "full_name": "Mr. Robert B. Dubose", "cases_count": 1, "all_cases_count": 88}
+{"bar_card": "00790206", "full_name": "Mr. John Sidney Adcock", "cases_count": 1, "all_cases_count": 84}
+{"bar_card": "00790424", "full_name": "Ms. Meloney Cargil Perry", "cases_count": 1, "all_cases_count": 14}
+{"bar_card": "00791924", "full_name": "Mr. Robert C. 'Bob' Wiegand", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "00793586", "full_name": "Ms. Elizabeth Conry 'Conry' Davidson", "cases_count": 1, "all_cases_count": 127}
+{"bar_card": "00795708", "full_name": "Ms. Amy Warr", "cases_count": 1, "all_cases_count": 119}
+{"bar_card": "01160300", "full_name": "Ms. Jessie Alliene Amos", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "02145500", "full_name": "Mr. James Bruce 'Bruce' Bennett", "cases_count": 1, "all_cases_count": 161}
+{"bar_card": "00784375", "full_name": "Mr. Mark Alan Keene", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "05898300", "full_name": "Mr. Rick Disney", "cases_count": 1, "all_cases_count": 21}
+{"bar_card": "08493500", "full_name": "Mr. Kevin Walter Grillo", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "09319000", "full_name": "Mr. Fred C. Head", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "14578980", "full_name": "Mr. Shayne D. Moses", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "16008850", "full_name": "Mr. James A. Pikl", "cases_count": 1, "all_cases_count": 65}
+{"bar_card": "17281075", "full_name": "Mr. Brent Marcus 'Brent Rosenthal' Rosenthal", "cases_count": 1, "all_cases_count": 70}
+{"bar_card": "18918400", "full_name": "Mr. W. Ross Spence", "cases_count": 1, "all_cases_count": 44}
+{"bar_card": "24007633", "full_name": "Mr. Shawn Malcolm McCaskill", "cases_count": 1, "all_cases_count": 86}
+{"bar_card": "02857300", "full_name": "Mr. David F. Bragg", "cases_count": 1, "all_cases_count": 147}
+{"bar_card": "00784591", "full_name": "Mr. Randall Lewis Meredith", "cases_count": 1, "all_cases_count": 22}

@@ -1,0 +1,3 @@
+{"bar_card": "08716800", "full_name": "Mr. Theodore C. 'ted' Hake", "cases_count": 5, "all_cases_count": 540}
+{"bar_card": "04705400", "full_name": "Mr. Joseph A. Connors III", "cases_count": 4, "all_cases_count": 335}
+{"bar_card": "20871500", "full_name": "Mr. Larry Logan 'LARRY' Warner Sr.", "cases_count": 1, "all_cases_count": 361}
